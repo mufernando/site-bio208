@@ -100,7 +100,10 @@ def root():
     # Get the page
     path = 'Main'
     page = pages.get_or_404(add_l10n_prefix(path))
-    last_post = pages.get(add_l10n_prefix('blog/post1'))
+
+    posts = [p for p in pages if 'blog' in p.path ]
+    latest = sorted(posts, reverse=True, key=lambda p: p.meta['post'])
+    last_post = latest[0]
 
     bloco1 = pages.get(add_l10n_prefix('blocos/bloco1'))
     bloco2 = pages.get(add_l10n_prefix('blocos/bloco2'))
@@ -116,11 +119,11 @@ def root():
                                         bloco3=bloco3,
                                         pages=pages)
 
-#def get_papers():
-#    bib_file = open(app.config.get('BIB_FILE', 'static/papers.bib'))
-#    b = bib.Bibparser(bib_file.read())
-#    b.parse()
-#    return b
+@app.route('/blog/')
+def blog():
+    posts = [p for p in pages if 'blog' in p.path ]
+    latest = sorted(posts, reverse=True, key=lambda p: p.meta['post'])
+    return render_template('blog.html', posts=latest)
 
 @app.route('/<path:path>/')
 def page(path):

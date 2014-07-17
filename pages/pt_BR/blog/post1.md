@@ -1,5 +1,5 @@
 template: post.html
-
-# It's a post!
+post: 1
+titulo: It's a post!
 
 blah blah blah
