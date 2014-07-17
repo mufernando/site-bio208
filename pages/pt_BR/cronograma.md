@@ -1,7 +1,5 @@
 template: page.html
 
-==================
-
-#cronograma
+# Cronograma
 
 ALTAS aulas
