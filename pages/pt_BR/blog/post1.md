@@ -1,4 +1,4 @@
-template: page.html
+template: post.html
 
 # It's a post!
 

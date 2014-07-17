@@ -71,11 +71,12 @@
         </div>
 
       </footer> -->
-
-
+    {% block extracontent %}
+    {% endblock extracontent %}
     </div>
 
-
+    {% block script %}
+    {% endblock script %}
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="{{ url_for('static', filename='javascripts/bootstrap.min.js') }}"></script>
   </body>
