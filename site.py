@@ -98,8 +98,8 @@ app.config['FLATPAGES_HTML_RENDERER'] = render_markdown
 def root():
     ''' Main page '''
     # Get the page
-    path = 'Main'
-    page = pages.get_or_404(add_l10n_prefix(path))
+    #path = 'Main'
+    #page = pages.get_or_404(add_l10n_prefix(path))
 
     posts = [p for p in pages if 'blog' in p.path ]
     latest = sorted(posts, reverse=True, key=lambda p: p.meta['post'])
@@ -112,7 +112,7 @@ def root():
     today = datetime.datetime.now().strftime("%B %dth %Y")
 
     return render_template('root.html', today=today,
-                                        page=page,
+                                        #page=page,
                                         last_post=last_post,
                                         bloco1=bloco1,
                                         bloco2=bloco2,
