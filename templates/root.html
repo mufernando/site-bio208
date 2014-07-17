@@ -1,6 +1,38 @@
 {% extends "base.html" %}
 
 {% block content %}
-{{ page }}
+
+<!-- Blocos do topo
+ ================================================== -->
+<div class="top-blocks">
+
+   <div class="row">
+     <div class="col-lg-4">
+       <div class="bs-component">
+          {{ bloco1 }}
+       </div>
+     </div>
+     <div class="col-lg-4">
+       <div class="bs-component">
+          {{ bloco2 }}
+       </div>
+
+     </div>
+     <div class="col-lg-4">
+       <div class="bs-component">
+           {{ bloco3 }}
+       </div>
+
+     </div>
+   </div>
+</div>
+<div class="row">
+   <div class="col-lg-8">
+       <h1> Blog </h1>
+       {{ last_post }}
+   </div>
+
+</div>
+
 {% endblock content %}
 
