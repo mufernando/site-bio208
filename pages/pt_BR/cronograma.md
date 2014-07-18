@@ -13,7 +13,7 @@ aula         Diurno     Noturno     Prof      Conteúdo
 Feriado      08-Sep     09-Sep
 6            15-Sep     16-Sep      DM        Teoria neutra da evolução molecular
 7            22-Sep     23-Sep      Glauco
-8            29-Sep     30-Sep      Prova     1
+8            29-Sep     30-Sep      Prova 1
 Temática     06-Oct     07-Oct
 9            13-Oct     14-Oct      GM        Adaptação e genética quantitativa 1
 10           20-Oct     21-Oct      GM        Adaptação e genética quantitativa  2
@@ -22,4 +22,4 @@ Feriado      27-Oct     28-Oct
 12           10-Nov     11-Nov      GM        Conceito de espécie
 13           17-Nov     18-Nov      GM        Coevolução e macroevolução
 14           24-Nov     25-Nov      GM        Evolução e desenvolvimento
-15           01-Dec     02-Dec      Prova     2
+15           01-Dec     02-Dec      Prova 2
