@@ -3,7 +3,7 @@ template: page.html
 # Cronograma
 
 
-aula         Diurno     Noturno     Prof      Conteúdo
+Aula         Diurno     Noturno     Prof      Conteúdo
 ---------   --------   ---------   --------   -------------------------------------------------------------------------------
 1            04-Aug     05-Aug      DM        Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
 2            11-Aug     12-Aug      DM        Deriva, prática com feijões
@@ -23,3 +23,13 @@ Feriado      27-Oct     28-Oct
 13           17-Nov     18-Nov      GM        Coevolução e macroevolução
 14           24-Nov     25-Nov      GM        Evolução e desenvolvimento
 15           01-Dec     02-Dec      Prova 2
+
+<script>
+    $(function () {
+        $('tbody tr:nth-child(6)').addClass('feriado');
+        $('tbody tr:nth-child(13)').addClass('feriado');
+        $('tbody tr:nth-child(10)').addClass('tematica');
+        $('tbody tr:nth-child(9)').addClass('prova');
+        $('tbody tr:nth-child(18)').addClass('prova');
+    });
+</script>

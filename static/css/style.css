@@ -9,3 +9,18 @@ tr.even {
 th, td {
     min-width: 80px;
 }
+
+tr.feriado {
+    background-color: #18BC9C;
+    color: white;
+}
+
+tr.tematica {
+    background-color: #3498DB;
+    color: white;
+}
+
+tr.prova {
+    background-color: #E74C3C;
+    color: white;
+}
