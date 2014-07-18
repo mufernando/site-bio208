@@ -1,6 +1,9 @@
 
-## Datas importantes
+<div class="panel-heading">
+#### Datas importantes
+</div>
 
+<div class="panel-body">
 ####Provas
 - Prova 1 $\cdot$ D 29/09 $\cdot$ N 30/09
 - Prova 2 $\cdot$ D 01/12 $\cdot$ N 02/12
@@ -13,3 +16,4 @@
 - Exercício 5
 
 ####Recuperação
+</div>
