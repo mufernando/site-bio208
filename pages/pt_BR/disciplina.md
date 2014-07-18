@@ -14,7 +14,8 @@ template: page.html
 - Freeman & Herron, "Análise Evolutiva", Artmed, Porto Alegre
 - Paulo Otto, "Genética de Populações Humanas". (disponível [aqui](/static/pdfs/livro_paulo_otto.pdf) em inglês)
 
-###Normas da disciplina:
+###Normas da disciplina
+
 As aulas começarão às 14:05 e 19:05, pontualmente.
 
 A lista de presença será passada todas as aulas. Entretanto, o critério de presença não será usado para reprovação.
