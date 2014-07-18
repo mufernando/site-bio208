@@ -1,5 +1,5 @@
 template: page.html
 
-# Cronograma
+# Notas
 
-ALTAS aulas
+
