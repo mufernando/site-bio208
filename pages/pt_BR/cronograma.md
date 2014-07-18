@@ -3,8 +3,8 @@ template: page.html
 ### Cronograma
 
 
-Aula         Diurno     Noturno     Professor    Conteúdo
----------   --------   ---------   -----------   -------------------------------------------------------------------------------
+  Aula       Diurno     Noturno     Professor    Conteúdo
+--------    --------   ---------   -----------   -------------------------------------------------------------------------------
 1            04-Aug     05-Aug      DM           Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
 2            11-Aug     12-Aug      DM           Deriva, prática com feijões
 3            18-Aug     19-Aug      DM           Modelo básico de seleção natural, simulação de seleção no populus
