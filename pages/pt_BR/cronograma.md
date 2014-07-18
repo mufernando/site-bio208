@@ -3,7 +3,7 @@ template: page.html
 # Cronograma
 
 
-aula         Diurno     Noturno     Prof      Aula
+aula         Diurno     Noturno     Prof      Conteúdo
 ---------   --------   ---------   --------   -------------------------------------------------------------------------------
 1            04-Aug     05-Aug      DM        Introdução, contagem de alelos, HW
 2            11-Aug     12-Aug      DM        Deriva, prática com feijões
