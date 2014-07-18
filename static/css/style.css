@@ -24,3 +24,7 @@ tr.prova {
     background-color: #E74C3C;
     color: white;
 }
+
+.container.content {
+    margin-top: 20px;
+}
