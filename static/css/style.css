@@ -1,3 +1,11 @@
 .top-blocks {
     margin-top: 30px;
 }
+
+tr.even {
+    background-color: #ECF0F1;
+}
+
+th, td {
+    min-width: 80px;
+}
