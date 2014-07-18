@@ -5,7 +5,7 @@ template: page.html
 
 aula         Diurno     Noturno     Prof      Conteúdo
 ---------   --------   ---------   --------   -------------------------------------------------------------------------------
-1            04-Aug     05-Aug      DM        Introdução, contagem de alelos, HW
+1            04-Aug     05-Aug      DM        Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
 2            11-Aug     12-Aug      DM        Deriva, prática com feijões
 3            18-Aug     19-Aug      DM        Modelo básico de seleção natural, simulação de seleção no populus
 4            25-Aug     26-Aug      DM        Interação entre deriva e seleção, simulação de deriva e seleção e fluxo gênico
