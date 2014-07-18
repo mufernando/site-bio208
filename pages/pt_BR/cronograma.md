@@ -1,6 +1,6 @@
 template: page.html
 
-# Cronograma
+### Cronograma
 
 
 Aula         Diurno     Noturno     Prof      Conteúdo
