@@ -2,15 +2,12 @@
 ## Aulas
 
 
-#### Diurno
-- Seg. 14h-18h
+#### Diurno $\cdot$ Seg. 14h-18h
 
-#### Noturno
-- Ter. 19h-23h
+#### Noturno $\cdot$ Ter. 19h-23h
 
-#### Local
-- Minas III
+#### Local $\cdot$ Minas III
 
-#### Atendimento:
+#### Atendimento
 - 4as Feiras 18 - 19h
 - LEM (Subsolo Minas nº3)
