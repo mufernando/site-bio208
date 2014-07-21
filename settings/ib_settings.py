@@ -2,6 +2,6 @@
 from __future__ import unicode_literals  # unicode by default
 
 FREEZER_RELATIVE_URLS=True
-FREEZER_BASE_URL='http://fge.if.usp.br/~cnaips/'
-FREEZER_DESTINATION='build-fge'
+FREEZER_BASE_URL='http://biologia.ib.usp.br/bio208'
+FREEZER_DESTINATION='build-ib'
 
