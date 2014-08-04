@@ -6,7 +6,7 @@
 
 #### Noturno $\cdot$ Ter. 19h-23h
 
-#### Local $\cdot$ Minas III
+#### Local $\cdot$ Minas II
 
 #### Atendimento
 - 4as Feiras 18 - 19h
