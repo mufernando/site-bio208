@@ -12,7 +12,7 @@ template: page.html
 - Capítulos, apostilas e artigos referentes a cada aula ficarão disponíveis no xerox, na pasta da disciplina.
 - Ridley, "Evolução", Editora Artmed, Porto Alegre (2006)
 - Freeman & Herron, "Análise Evolutiva", Artmed, Porto Alegre
-- Paulo Otto, "Genética de Populações Humanas". (disponível [aqui](/static/pdfs/livro_paulo_otto.pdf) em inglês)
+- Paulo Otto, "Genética de Populações Humanas". (disponível [aqui](/bio208/static/pdfs/livro_paulo_otto.pdf) em inglês)
 
 ###Normas da disciplina
 
