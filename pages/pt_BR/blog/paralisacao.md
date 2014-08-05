@@ -5,8 +5,20 @@ titulo: Paralisação na semana 4/8 - 8/8
 Nessa semana não haverá aula devido à paralisação de professores do IB.
 
 A volta às aulas na próxima semana fica dependente do resultado da
-assembleia de professores da sexta feira dia 8/8. Vamos informar aqui
-assim que tivermos uma posição oficial.
+assembleia de professores da sexta feira dia 8/8.
+
+Alguns comentários:
+
+- Há atividades ligadas à paralisação acontecendo no IB, que visam
+tornar a razão da paralisação clara.
+- A paralisação afeta só a __presente semana__. Se iremos retomar aulas
+na semana que vem, continuar a paralisação ou iniciar uma greve por
+tempo indeterminado será algo decidido numa reunião de docentes na
+sexta.
+- A decisão dos docentes de BIO 208 será __imediatamente comunicada no site da disciplina__.
+- Uma vez decidida a data de retomada das aulas (que, como foi exposta
+acima, ainda está completamente em aberto) apresentaremos um novo
+calendário com datas de aulas e provas.
 
 Transcrevo abaixo o email de aviso circulado pelos professores após assembleia.
 
