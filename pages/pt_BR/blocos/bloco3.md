@@ -15,6 +15,6 @@
 
 ####Paralisação confirmada
 
-Semana do 11/08 ao 15/08
+Semana do 18/08 ao 22/08
 
 </div>
