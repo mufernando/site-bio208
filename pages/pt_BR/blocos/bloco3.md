@@ -4,12 +4,17 @@
 </div>
 
 <div class="panel-body">
-####Provas
-- Prova 1 $\cdot$ D 29/09 $\cdot$ N 30/09
-- Prova 2 $\cdot$ D 01/12 $\cdot$ N 02/12
+<!--####Provas-->
+<!--- Prova 1 $\cdot$ D 29/09 $\cdot$ N 30/09-->
+<!--- Prova 2 $\cdot$ D 01/12 $\cdot$ N 02/12-->
 
-####Entrega de listas
-- Exercício 1 $\cdot$ D 18/08 $\cdot$ N 19/08
+<!--####Entrega de listas-->
+<!--- Exercício 1 $\cdot$ D 18/08 $\cdot$ N 19/08-->
 
-####Recuperação
+<!--####Recuperação-->
+
+####Paralisação confirmada
+
+Semana do 25/08 ao 29/08
+
 </div>
