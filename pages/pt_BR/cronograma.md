@@ -5,55 +5,51 @@ template: page.html
 ----------------------------------------------------------------------------------------------------------
   Aula       Diurno     Noturno     Professor    Conteúdo
 --------    --------   ---------   -----------   ---------------------------------------------------------
-1            04-Aug     05-Aug      DM             Introdução, contagem de alelos,
-                                                   equilibrio de Hardy-Weinberg
+1            01-Sep     02-Sep      DM             Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
 
-2            11-Aug     12-Aug      DM             Deriva genética.
-                                                   __Prática:__ simulação de deriva com feijões
+Feriado      08-Sep     09-Sep      DM
 
-3            18-Aug     19-Aug      DM             Modelo básico de seleção natural.
-                                                   __Prática:__ simulação de seleção no [Populus](http://www.cbs.umn.edu/research/resources/populus)
+2            15-Sep     16-Sep      DM             Deriva genética.
+                                                    __Prática:__ simulação de deriva com feijões
 
-4            25-Aug     26-Aug      DM             Interação entre deriva e seleção.
-                                                   __Prática:__ simulação de deriva, seleção
-                                                   e fluxo gênico
+3            22-Sep     23-Sep      DM             Modelo básico de seleção natural.
+                                                    __Prática:__ simulação de seleção no [Populus](http://www.cbs.umn.edu/research/resources/populus)
 
-5            01-Sep     02-Sep      DM             Desequilíbrio de ligação, evolução do genoma
+4            29-Sep     30-Sep      DM             Interação entre deriva e seleção.
+                                                    __Prática:__ simulação de deriva, seleção e fluxo gênico
 
-Feriado      08-Sep     09-Sep
+5            06-Oct     07-Oct                     Desequilíbrio de ligação, evolução do genoma
 
-6            15-Sep     16-Sep      DM             Teoria neutra da evolução molecular
+6            13-Oct     14-Oct      DM             Teoria neutra da evolução molecular
 
-7            22-Sep     23-Sep      Glauco
-
-8            29-Sep     30-Sep                     Prova 1
-
-Temática     06-Oct     07-Oct
-
-9            13-Oct     14-Oct      GM             Adaptação e genética quantitativa 1
-
-10           20-Oct     21-Oct      GM             Adaptação e genética quantitativa  2
+7            20-Oct     21-Oct      Glauco
 
 Feriado      27-Oct     28-Oct
 
-11           03-Nov     04-Nov      GM             Unidadade de seleção
+8            03-Nov     04-Nov                     Prova 1
 
-12           10-Nov     11-Nov      GM             Conceito de espécie
+9            10-Nov     11-Nov      GM             Adaptação e genética quantitativa 1
 
-13           17-Nov     18-Nov      GM             Coevolução e macroevolução
+10           17-Nov     18-Nov      GM             Adaptação e genética quantitativa  2
 
-14           24-Nov     25-Nov      GM             Evolução e desenvolvimento
+11           24-Nov     25-Nov      GM             Unidadade de seleção
 
-15           01-Dec     02-Dec                     Prova 2
+12           01-Dec     02-Dec      GM             Conceito de espécie
+
+13           08-Dec     09-Dec      GM             Coevolução e macroevolução
+
+14           15-Dec     16-Dec      GM             Evolução e desenvolvimento
+
+15           22-Dec     23-Dec                     Prova 2
+
 ----------------------------------------------------------------------------------------------------------
 
 <script>
     $(function () {
-        $('tbody tr:nth-child(6)').addClass('feriado');
-        $('tbody tr:nth-child(13)').addClass('feriado');
-        $('tbody tr:nth-child(10)').addClass('tematica');
-        $('tbody tr:nth-child(9)').addClass('prova');
-        $('tbody tr:nth-child(18)').addClass('prova');
+        $('tbody tr:nth-child(2)').addClass('feriado');
+        $('tbody tr:nth-child(9)').addClass('feriado');
+        $('tbody tr:nth-child(10)').addClass('prova');
+        $('tbody tr:nth-child(17)').addClass('prova');
     });
 </script>
 
