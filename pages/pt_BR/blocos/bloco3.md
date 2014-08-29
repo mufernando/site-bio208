@@ -13,8 +13,8 @@
 
 <!--####Recuperação-->
 
-####Paralisação confirmada
+####Volta às aulas!
 
-Semana do 25/08 ao 29/08
+Primeira aula $\cdot$ D 01/09 $\cdot$ N 02/09
 
 </div>
