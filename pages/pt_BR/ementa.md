@@ -22,16 +22,16 @@ Calculadoras devem ser trazidas nas aulas 1--5, 9 e 10, além dos dias de prova 
 
 ####Datas de entrega das atividades
 
-- Listas 1 $\cdot$ D 22/09 $\cdot$ N 23/09
-- Listas 2 $\cdot$ D 06/10 $\cdot$ N 07/10
-- Listas 3 $\cdot$ D 20/10 $\cdot$ N 21/10
-- Listas 4 $\cdot$ D 17/11 $\cdot$ N 18/11
-- Listas 5 $\cdot$ D 24/11 $\cdot$ N 25/11
+- Lista 1 $\cdot$ D 22/09 $\cdot$ N 23/09
+- Lista 2 $\cdot$ D 06/10 $\cdot$ N 07/10
+- Lista 3 $\cdot$ D 20/10 $\cdot$ N 21/10
+- Lista 4 $\cdot$ D 17/11 $\cdot$ N 18/11
+- Lista 5 $\cdot$ D 24/11 $\cdot$ N 25/11
 
 ####Bibliografia
 
-Ridley,”Evolução”, Editora Artmed, Porto Alegre (2006)
-Textos adicionais, disponíveis no site da disciplina.
+Ridley,"Evolução", Editora Artmed, Porto Alegre (2006) e
+textos adicionais disponíveis no site da disciplina.
 
 ####Horário de atendimento
 Entre em contato por e-mail.

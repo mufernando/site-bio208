@@ -15,11 +15,11 @@ Primeira aula $\cdot$ D 01/09 $\cdot$ N 02/09
 
 ####Entrega de listas
 
-- Listas 1 $\cdot$ D 22/09 $\cdot$ N 23/09
-- Listas 2 $\cdot$ D 06/10 $\cdot$ N 07/10
-- Listas 3 $\cdot$ D 20/10 $\cdot$ N 21/10
-- Listas 4 $\cdot$ D 17/11 $\cdot$ N 18/11
-- Listas 5 $\cdot$ D 24/11 $\cdot$ N 25/11
+- Lista 1 $\cdot$ D 22/09 $\cdot$ N 23/09
+- Lista 2 $\cdot$ D 06/10 $\cdot$ N 07/10
+- Lista 3 $\cdot$ D 20/10 $\cdot$ N 21/10
+- Lista 4 $\cdot$ D 17/11 $\cdot$ N 18/11
+- Lista 5 $\cdot$ D 24/11 $\cdot$ N 25/11
 
 <!--####Recuperação-->
 
