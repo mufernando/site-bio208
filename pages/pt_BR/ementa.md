@@ -1,3 +1,5 @@
+template: page.html
+
 %BIO-0208 Processos Evolutivos
 %Gabriel Marroig $\cdot$ Diogo Meyer
 %2014
