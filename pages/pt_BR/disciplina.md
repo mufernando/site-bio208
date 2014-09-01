@@ -3,7 +3,7 @@ template: page.html
 ###Avaliação
 
 ####Média das Atividades
-      MA = [(E1+E2)/2 + L1 + E3] / 3
+      MA = [L1 + L2 + L3 + L4 + L5] / 5
 
 ####Nota final
       Prova 1 * 0.4 + Prova 2 * 0.4 + MA * 0.2
