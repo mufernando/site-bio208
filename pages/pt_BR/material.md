@@ -11,3 +11,4 @@ template: page.html
 #Exercicios
 
 - [Exercicio 1 - Contagem de alelos e equilibrio Hardy-Weinberg](/bio208/static/pdfs/exercicios2014/2014-exercicio1.pdf)
+- [Solução Exercicio 1 - Contagem de alelos e equilibrio Hardy-Weinberg](/bio208/static/pdfs/exercicios2014/2014-Sol-exercicio1.pdf)
