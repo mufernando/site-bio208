@@ -15,10 +15,10 @@ template: page.html
 
 #Prática 1 - Deriva Genética
 ###Lista 1 para entregar em 22/09 (Diurno) e 23/09 (Noturno)
-- [Roteiro e Lista Prática 1](/bio208/static/pdfs/pratica1/2014-roteiro-pratica1.pdf)
+- [Roteiro e Lista Prática 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf)
 - Link da Planilha para preencher com os dados dos sorteios:
 
 	- [DIURNO](https://docs.google.com/spreadsheets/d/1jZbxJzstOdgaNADw6n1ov4pKo0l0dAD1uEcefAlFplI/edit#gid=0)
 	- [NOTURNO](https://docs.google.com/spreadsheets/d/1Ohp7eJ9RQnDUsMamCgX_hvuPLSlQLAGrktFVR-p8VyI/edit#gid=0)
 
-- [Rotina em R para desenhar os histogramas](/bio208/static/pdfs/pratica1/2014-pratica1-hist.R)
+- [Rotina em R para desenhar os histogramas](/bio208/static/pdfs/roteiros_listas/2014-pratica1-hist.R)
