@@ -7,6 +7,7 @@ template: page.html
 #Slides de aula
 
 - [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/aulas2014/2014-aula01-hwp.pdf)
+- [Deriva Genética](/bio208/static/pdfs/aulas2014/deriva_2014.pdf)
 
 #Exercicios
 
