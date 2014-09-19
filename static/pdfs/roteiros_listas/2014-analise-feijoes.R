@@ -41,7 +41,7 @@ PlotHistograms_withExpected <- function(cenario_df, n, p, gen, main = '', cor){
     x$variable <- paste0("geracao.", as.character(x$X1))
     x$X1 <- NULL
     m_cenario = melt(cenario_df, id.vars = c("Grupo", "periodo"))
-    ggplot(m_cenario, aes(value, group = variable)) + geom_histogram(fill=cor, binwidth = 0.5) + theme_bw()+ xlab("Numero de Pretos")+ ylab("Contagem")+
+    ggplot(m_cenario, aes(value, group = variable)) + geom_histogram(fill=cor, binwidth = 0.5) + theme_bw()+ xlab("Número de Pretos")+ ylab("Contagem")+
     geom_line(data = x, aes(n.pretos, pops)) + geom_point(data = x, aes(n.pretos, pops)) + facet_wrap(~variable, scales = "free_y")+ labs(title=main)
 }
 
