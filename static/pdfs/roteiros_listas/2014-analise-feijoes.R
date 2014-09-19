@@ -36,16 +36,16 @@ ExpectedPops <- function(m, n, p, gen){
     data.frame(n.pretos = 0:n, pops)
 }
 
-PlotHistograms_withExpected <- function(cenario_df, n, p, gen, main = ''){
-    x = adply(1:12, 1, function(x) ExpectedPops(dim(cenario_df)[1], n, p, x))
+PlotHistograms_withExpected <- function(cenario_df, n, p, gen, main = '', cor){
+    x = adply(1:gen, 1, function(x) ExpectedPops(dim(cenario_df)[1], n, p, x))
     x$variable <- paste0("geracao.", as.character(x$X1))
     x$X1 <- NULL
     m_cenario = melt(cenario_df, id.vars = c("Grupo", "periodo"))
-    ggplot(m_cenario, aes(value, group = variable)) + geom_histogram(fill="red", binwidth = 0.5) + theme_bw()+ xlab("Numero de Pretos")+ ylab("Contagem")+
+    ggplot(m_cenario, aes(value, group = variable)) + geom_histogram(fill=cor, binwidth = 0.5) + theme_bw()+ xlab("Numero de Pretos")+ ylab("Contagem")+
     geom_line(data = x, aes(n.pretos, pops)) + geom_point(data = x, aes(n.pretos, pops)) + facet_wrap(~variable, scales = "free_y")+ labs(title=main)
 }
 
-PlotHistograms_withExpected(cenarios[[1]], 4, 0.50, 12, 'Cenário 1')
-PlotHistograms_withExpected(cenarios[[2]], 4, 0.25, 12, 'Cenário 2')
-PlotHistograms_withExpected(cenarios[[3]], 8, 0.50, 12, 'Cenário 3')
-PlotHistograms_withExpected(cenarios[[4]],16, 0.25, 12, 'Cenário 4')
+PlotHistograms_withExpected(cenarios[[1]], 4, 0.50, 12, 'Cenário 1', 'lightskyblue2')
+PlotHistograms_withExpected(cenarios[[2]], 4, 0.25, 12, 'Cenário 2', 'lightgoldenrod1')
+PlotHistograms_withExpected(cenarios[[3]], 8, 0.50, 12, 'Cenário 3', 'lightpink3')
+PlotHistograms_withExpected(cenarios[[4]],16, 0.25, 12, 'Cenário 4', 'palegreen3')
