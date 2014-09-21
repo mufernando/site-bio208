@@ -71,7 +71,7 @@ ChiSqTest(cenarios[[3]], 8, 0.5, 12)
 ChiSqTest(cenarios[[4]],16,0.25, 12)
 
 ##################
-# Evolução de frequencias, heterozigoze and all that
+# Evolução de frequencias, heterozigose and all that
 ##################
 
 PlotStats <- function(cenario_df, n, p, gen, main = '', m = dim(cenario_df)[1]){
