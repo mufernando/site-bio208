@@ -49,3 +49,22 @@ PlotHistograms_withExpected(cenarios[[1]], 4, 0.50, 12, 'Cenário 1', 'lightskyb
 PlotHistograms_withExpected(cenarios[[2]], 4, 0.25, 12, 'Cenário 2', 'lightgoldenrod1')
 PlotHistograms_withExpected(cenarios[[3]], 8, 0.50, 12, 'Cenário 3', 'lightpink3')
 PlotHistograms_withExpected(cenarios[[4]],16, 0.25, 12, 'Cenário 4', 'palegreen3')
+
+##############
+# Testes estatísticos
+##############
+
+# Desvio esperado ao final do processo:
+
+ChiSqTest <- function(cenario_df, n, p, gen){
+    m_cenario = melt(cenario_df, id.vars = c('Grupo', 'periodo'))
+    M <- as.table(rbind(table(m_cenario$value, m_cenario$variable)[,gen], ExpectedPops(dim(cenario_df)[1], n, p, gen)$pops))
+    rownames(M) <- c('observado', 'esperado')
+    print(M)
+    chisq.test(M)
+}
+
+ChiSqTest(cenarios[[1]], 4, 0.5, 12)
+ChiSqTest(cenarios[[2]], 4,0.25, 12)
+ChiSqTest(cenarios[[3]], 8, 0.5, 12)
+ChiSqTest(cenarios[[4]],16,0.25, 12)
