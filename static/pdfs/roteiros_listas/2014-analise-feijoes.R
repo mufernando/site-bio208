@@ -37,13 +37,15 @@ ExpectedPops <- function(m, n, p, gen){
     data.frame(n.pretos = 0:n, pops)
 }
 
-PlotHistograms_withExpected <- function(cenario_df, n, p, gen, main = '', cor){
-    x = adply(1:gen, 1, function(x) ExpectedPops(dim(cenario_df)[1], n, p, x))
-    x$variable <- paste0("geracao.", as.character(x$X1))
-    x$X1 <- NULL
-    m_cenario = melt(cenario_df, id.vars = c("Grupo", "periodo"))
-    ggplot(m_cenario, aes(value, group = variable)) + geom_histogram(fill=cor, binwidth = 0.5) + theme_bw()+ xlab("Número de Pretos")+ ylab("Contagem")+
-    geom_line(data = x, aes(n.pretos, pops)) + geom_point(data = x, aes(n.pretos, pops)) + facet_wrap(~variable, scales = "free_y")+ labs(title=main)
+PlotHistograms_withExpected <- function(cenario_df, n, p, gen, main = '', cor, m = dim(cenario_df)[1]){
+    esperado = adply(1:gen, 1, function(x) ExpectedPops(m, n, p, x))
+    esperado$geracao <- as.factor(esperado$X1)
+    esperado$X1 <- NULL
+    m_cenario = melt(cenario_df, id.vars = c('Grupo', 'periodo'))
+    names(m_cenario) <- c('Grupo', 'periodo', 'geracao', 'n.pretos')
+    m_cenario$geracao <- as.factor(as.numeric(gsub('geracao.', '', m_cenario$geracao)))
+    ggplot(m_cenario, aes(n.pretos, group = geracao)) + geom_histogram(fill=cor, binwidth = 0.5) + theme_bw()+ xlab("Número de Pretos")+ ylab("Contagem")+
+    geom_line(data = esperado, aes(n.pretos, pops)) + geom_point(data = esperado, aes(n.pretos, pops)) + facet_wrap(~geracao, scales = "free_y")+ labs(title=main)
 }
 
 PlotHistograms_withExpected(cenarios[[1]], 4, 0.50, 12, 'Cenário 1', 'lightskyblue2')
