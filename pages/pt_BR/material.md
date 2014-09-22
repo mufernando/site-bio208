@@ -23,3 +23,4 @@ template: page.html
 	- [NOTURNO](https://docs.google.com/spreadsheets/d/1Ohp7eJ9RQnDUsMamCgX_hvuPLSlQLAGrktFVR-p8VyI/edit#gid=0) ([Histograma](/bio208/static/pdfs/roteiros_listas/2014-Hist-Noturno-pratica1o.pdf) e [Série Temporal](/bio208/static/pdfs/roteiros_listas/2014-TS-Noturno-pratica1.pdf))
 
 - [Rotina em R para desenhar os histogramas](/bio208/static/pdfs/roteiros_listas/2014-pratica1-hist.R)
+- [Rotina para analise combinada das duas turmas](/bio208/static/pdfs/roteiros_listas/2014-analise-feijoes.R)
