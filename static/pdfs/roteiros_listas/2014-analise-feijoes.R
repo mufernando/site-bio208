@@ -76,7 +76,7 @@ ChiSqTest(cenarios[[4]],16,0.25, 12)
 # Evolução de frequencias, heterozigose and all that
 ##################
 
-PlotStats <- function(cenario_df, n, p, gen, main = '', m = dim(cenario_df)[1]){
+CalcStats <- function(cenario_df, n, p, gen, main = '', m = dim(cenario_df)[1]){
     m_cenario = melt(cenario_df, id.vars = c('Grupo', 'periodo'))
     names(m_cenario) <- c('Grupo', 'periodo', 'geracao', 'n.pretos')
     m_cenario$geracao <- as.factor(as.numeric(gsub('geracao.', '', m_cenario$geracao)))
@@ -85,10 +85,14 @@ PlotStats <- function(cenario_df, n, p, gen, main = '', m = dim(cenario_df)[1]){
                         heter = 2 * freq * (1-freq))
     m_cenario <- melt(m_cenario, id.vars = c('Grupo', 'periodo', 'geracao'))
     var_freq <- data.frame(geracao = as.factor(0:gen),
-                           var_freq = tapply(filter(m_cenario, variable == 'freq')$value,
+                           value = tapply(filter(m_cenario, variable == 'freq')$value,
                                              filter(m_cenario, variable == 'freq')$geracao,
                                              var),
-                           variable = 'var freq')
+                           variable = 'var.freq')
+    m_cenario <- ddply(select(m_cenario, geracao, variable, value), variable~geracao, numcolwise(mean))
+    m_cenario <- filter(m_cenario, variable != 'n.pretos')
+    m_cenario <- rbind(m_cenario, var_freq)
+    m_cenario$type <- 'observado'
 
     esperado = adply(1:gen, 1, function(x) ExpectedPops(m, n, p, x))
     esperado$geracao <- as.factor(esperado$X1)
@@ -102,14 +106,29 @@ PlotStats <- function(cenario_df, n, p, gen, main = '', m = dim(cenario_df)[1]){
     var_esp <- tapply((esperado$n.pretos/n - p)**2 * esperado$pops,
                       esperado$geracao,
                       function(x) sum(x) / m)
-    stat_esperado <- data.frame(cbind(freq_esp, heter_esp, var_esp), geracao = as.factor(1:gen))
-    m_esperado <- melt(stat_esperado, id.vars = 'geracao')
+    stat_esperado <- data.frame(freq = freq_esp, heter = heter_esp, 'var freq' = var_esp, geracao = as.factor(1:gen), type = 'esperado')
+    m_esperado <- melt(stat_esperado, id.vars = c('geracao', 'type'))
 
-    ggplot(filter(m_cenario, variable != 'n.pretos'), aes(geracao, value, group = variable, color = variable)) +
-    geom_smooth() + theme_bw() + geom_line(data = var_freq, aes(geracao, var_freq, group = 1)) + geom_line(data = m_esperado, aes(geracao, value, group = variable))+ labs(title=main)
+    m_data <- rbind(m_cenario, m_esperado)
+    m_data$cenario <- main
+    m_data
 }
 
-PlotStats(cenarios[[1]], 4, 0.50, 12, 'Cenário 1')
-PlotStats(cenarios[[2]], 4, 0.25, 12, 'Cenário 2')
-PlotStats(cenarios[[3]], 8, 0.50, 12, 'Cenário 3')
-PlotStats(cenarios[[4]],16, 0.25, 12, 'Cenário 4')
+PlotStats <- function(m_data) {
+    ggplot(m_data, aes(geracao, value, group = type, color = type)) +
+    geom_line() + theme_bw() + labs(title=main) + facet_wrap(~variable)
+}
+
+#plotando por cenário
+PlotStats(CalcStats(cenarios[[1]], 4, 0.50, 12, 'Cenário 1'))
+PlotStats(CalcStats(cenarios[[2]], 4, 0.25, 12, 'Cenário 2'))
+PlotStats(CalcStats(cenarios[[3]], 8, 0.50, 12, 'Cenário 3'))
+PlotStats(CalcStats(cenarios[[4]],16, 0.25, 12, 'Cenário 4'))
+
+#Plotando tudo junto
+mega_data <- rbind(CalcStats(cenarios[[1]], 4, 0.50, 12, 'Cenário 1'),
+                   CalcStats(cenarios[[2]], 4, 0.25, 12, 'Cenário 2'),
+                   CalcStats(cenarios[[3]], 8, 0.50, 12, 'Cenário 3'),
+                   CalcStats(cenarios[[4]],16, 0.25, 12, 'Cenário 4'))
+ggplot(mega_data, aes(geracao, value, group = interaction(type, cenario), color = type)) +
+geom_line() + theme_bw() + labs(title=main) + facet_grid(variable~cenario)
