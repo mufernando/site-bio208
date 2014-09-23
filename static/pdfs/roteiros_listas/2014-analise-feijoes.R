@@ -111,12 +111,12 @@ CalcStats <- function(cenario_df, n, p, gen, main = '', m = dim(cenario_df)[1]){
 
     m_data <- rbind(m_cenario, m_esperado)
     m_data$cenario <- main
-    m_data
+    return(m_data)
 }
 
 PlotStats <- function(m_data) {
     ggplot(m_data, aes(geracao, value, group = type, color = type)) +
-    geom_line() + theme_bw() + labs(title=main) + facet_wrap(~variable)
+    geom_line() + theme_bw() + labs(title=m_data$cenario[1]) + facet_wrap(~variable)
 }
 
 #plotando por cenário
@@ -131,4 +131,4 @@ mega_data <- rbind(CalcStats(cenarios[[1]], 4, 0.50, 12, 'Cenário 1'),
                    CalcStats(cenarios[[3]], 8, 0.50, 12, 'Cenário 3'),
                    CalcStats(cenarios[[4]],16, 0.25, 12, 'Cenário 4'))
 ggplot(mega_data, aes(geracao, value, group = interaction(type, cenario), color = type)) +
-geom_line() + theme_bw() + labs(title=main) + facet_grid(variable~cenario)
+geom_line() + theme_bw() + facet_grid(variable~cenario)
