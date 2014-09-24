@@ -24,3 +24,7 @@ template: page.html
 
 - [Rotina em R para desenhar os histogramas](/bio208/static/pdfs/roteiros_listas/2014-pratica1-hist.R)
 - [Rotina para analise combinada das duas turmas](/bio208/static/pdfs/roteiros_listas/2014-analise-feijoes.R)
+
+#Listas
+
+- [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) para entregar em 06/10 (Diurno) e 07/10 (Noturno)
