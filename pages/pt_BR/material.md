@@ -15,6 +15,8 @@ template: page.html
 - [Exercicio 1 - Contagem de alelos e equilibrio Hardy-Weinberg](/bio208/static/pdfs/exercicios2014/2014-exercicio1.pdf)
 - [Solução Exercicio 1 - Contagem de alelos e equilibrio Hardy-Weinberg](/bio208/static/pdfs/exercicios2014/2014-Sol-exercicio1.pdf)
 
+- [Exercicio 2 - Teoria Neutra](/bio208/static/pdfs/exercicios2014/2014-exercicio2.pdf)
+
 #Práticas
 
 ##Prática 1 - Deriva Genética
