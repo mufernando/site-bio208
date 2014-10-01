@@ -14,10 +14,10 @@ Feriado      08-Sep     09-Sep
 
 3            22-Sep     23-Sep     DM             Deriva genética, tamanho efetivo e teoria neutra.
 
-4            29-Sep     30-Sep     DM             Introdução à seleção natural. Prática: modelos determinísticos de seleção.
+4            29-Sep     30-Sep     DM             Introdução à seleção natural. __Prática__: modelos determinísticos de seleção.
 
 5            06-Oct     07-Oct     DM              Integração de processos evolutivas: ação conjunta
-                                                    de seleção, deriva e migração. Prática: simulações
+                                                    de seleção, deriva e migração. __Prática__: simulações
                                                     de seleção e deriva no Populus
 
 6            13-Oct     14-Oct     Glauco         Evolução do sexo
