@@ -43,7 +43,7 @@ template: page.html
 - [Roteiro prática 3](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica3.pdf)
 - Planilhas prática 3 :
 
-    - [Diruno](https://docs.google.com/spreadsheets/d/1xFXMwo76CAUCUe8ozyXeIliKd1TGkcc8eJ11mjQt0BA)
+    - [Diurno](https://docs.google.com/spreadsheets/d/1xFXMwo76CAUCUe8ozyXeIliKd1TGkcc8eJ11mjQt0BA)
     - [Noturno](https://docs.google.com/spreadsheets/d/1eOEO5_rTXby6lbp0NSWk0OhCsZQ3bTmPo-Xk14dAO_8)
 
 #Listas
