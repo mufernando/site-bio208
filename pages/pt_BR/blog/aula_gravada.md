@@ -1,8 +1,8 @@
 template: post.html
 post: 9
-titulo: Aula gravada do dia 6/7
+titulo: Aula gravada do dia 6/10
 
-A aula do dia 6/7, de interação entre seleção e deriva pode ser
+A aula do dia 6/10, de interação entre seleção e deriva pode ser
 vista [aqui](http://iptv.usp.br/portal/video.action?idItem=24406).
 
 Na seção de material de aula há links para os resultados da

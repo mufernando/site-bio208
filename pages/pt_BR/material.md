@@ -1,6 +1,7 @@
 template: page.html
 
 #Material de aula
+
 - [Ementa da disciplina](/bio208/static/pdfs/ementa.pdf)
 - [Livro de genética de populações](/bio208/static/pdfs/livro_paulo_otto.pdf)
 
@@ -36,6 +37,14 @@ template: page.html
 
 - [Roteiro prática 2](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica2.pdf)
 - [Planilha prática 2](/bio208/static/pdfs/roteiros_listas/2014-planilha-pratica2.xlsx)
+
+##Prática 3 - Seleção natural e deriva
+
+- [Roteiro prática 3](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica3.pdf)
+- Planilhas prática 3 :
+
+    - [Diurno](https://docs.google.com/spreadsheets/d/1xFXMwo76CAUCUe8ozyXeIliKd1TGkcc8eJ11mjQt0BA)
+    - [Noturno](https://docs.google.com/spreadsheets/d/1eOEO5_rTXby6lbp0NSWk0OhCsZQ3bTmPo-Xk14dAO_8)
 
 #Listas
 
