@@ -50,3 +50,4 @@ template: page.html
 
 - [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) para entregar em 22/09 (Diurno) e 23/09 (Noturno)
 - [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) para entregar em 06/10 (Diurno) e 07/10 (Noturno)
+- [Lista 3](/bio308/static/pdfs/roteiros_listas/lista3.pdf) para entregar em 20/10 (Diurno) e 21/10 (Noturno)
