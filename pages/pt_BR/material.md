@@ -12,6 +12,7 @@ template: page.html
 - [Teoria neutra da evolução molecular](/bio208/static/pdfs/aulas2014/deriva_neutralidade_2014.pdf)
 - [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)
 - [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))
+- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf) 
 
 #Exercicios
 
