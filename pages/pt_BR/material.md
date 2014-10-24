@@ -53,4 +53,4 @@ template: page.html
 
 - [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)
 - [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)
-- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) para entregar em 20/10 (Diurno) e 21/10 (Noturno)
+- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)
