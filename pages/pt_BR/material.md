@@ -13,7 +13,7 @@ template: page.html
 - [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)
 - [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))
 - [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf) 
-- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf) 
+- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf) 
 
 #Exercicios
 
@@ -24,6 +24,7 @@ template: page.html
 - [Solução Exercicio 2](/bio208/static/pdfs/exercicios2014/2014-Sol-exercicio2.pdf)
 
 - [Exercicio 3 - Desequilibrio de ligação](/bio208/static/pdfs/exercicios2014/2014-exercicio3.pdf)
+- [Solução Exercicio 3](/bio208/static/pdfs/exercicios2014/2014-Sol-exercicio3.pdf)
 
 #Práticas
 
