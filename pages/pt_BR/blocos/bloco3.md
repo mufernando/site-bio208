@@ -21,7 +21,9 @@ Primeira aula $\cdot$ D 01/09 $\cdot$ N 02/09
 - Lista 4 $\cdot$ D 17/11 $\cdot$ N 18/11
 - Lista 5 $\cdot$ D 24/11 $\cdot$ N 25/11
 
-<!--####Recuperação-->
+####Recuperação
+
+- 02/03/2015 $\cdot$ 14hs $\cdot$ local a confirmar
 
 
 </div>
