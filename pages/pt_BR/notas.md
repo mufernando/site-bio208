@@ -11,7 +11,7 @@ template: page.html
 8756467       Andre Kanasiro Spinelli Guimarães    6.90       6.25
 8541287       Angela Cerqueira Sousa               7.30       7.75       4
 8541328       Anna Carolina Kobayashi              4.70       5.40       6
-8541461       Beatriz Foganholi Fernandes          7.00       7.75       5
+8541461       Beatriz Foganholi Fernandes          7.00       8.25       5
 7995514       Bruna Bombarda                       4.00       8.25
 7995692       Bunni Costa                          6.75                  7.5
 7995880       Carolina Farhat                      4.41
