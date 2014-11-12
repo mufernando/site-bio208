@@ -14,6 +14,7 @@ template: page.html
 - [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))
 - [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf) 
 - [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf) 
+- Adaptação e genética quantitativa I ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))
 
 #Exercicios
 
