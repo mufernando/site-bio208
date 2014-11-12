@@ -26,6 +26,8 @@ template: page.html
 - [Exercicio 3 - Desequilibrio de ligação](/bio208/static/pdfs/exercicios2014/2014-exercicio3.pdf)
 - [Solução Exercicio 3](/bio208/static/pdfs/exercicios2014/2014-Sol-exercicio3.pdf)
 
+- [Exercicio 4 - Herdabilidade](/bio208/static/pdfs/exercicios2014/2014-exercicio4.pdf)
+
 #Práticas
 
 ##Prática 1 - Deriva genética
