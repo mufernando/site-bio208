@@ -80,7 +80,7 @@ template: page.html
 7278729       Adauto de Souza Spindola Junior          5.91       4.00       6
               Adriana Navarro Bueno                    7.75       5.50       5.8
 7582340       Alan Borges de Souza                     8.30
-7157922       Andreza Lukosiunas                       6.40       7.00       2
+7157922       Andreza Lukosiunas                       6.40       7.00       4
 8068720       Arnaldo Bianco                           8.60       4.25       7.5
 7577692       Arthur Amorim Catunda                    8.00       2.50       3.5
 7995556       Arthur Shigueru Umeda                    5.75       3.75       3
