@@ -12,8 +12,9 @@ template: page.html
 - [Teoria neutra da evolução molecular](/bio208/static/pdfs/aulas2014/deriva_neutralidade_2014.pdf)
 - [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)
 - [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))
-- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf) 
-- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf) 
+- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf)
+- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)
+- Adaptação e genética quantitativa I ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))
 
 #Exercicios
 
@@ -25,6 +26,8 @@ template: page.html
 
 - [Exercicio 3 - Desequilibrio de ligação](/bio208/static/pdfs/exercicios2014/2014-exercicio3.pdf)
 - [Solução Exercicio 3](/bio208/static/pdfs/exercicios2014/2014-Sol-exercicio3.pdf)
+
+- [Exercicio 4 - Herdabilidade](/bio208/static/pdfs/exercicios2014/2014-exercicio4.pdf)
 
 #Práticas
 
@@ -56,7 +59,7 @@ template: page.html
 
 - [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)
 - [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)
-- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) para entregar em 20/10 (Diurno) e 21/10 (Noturno)
+- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)
 - [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) para entregar em 24/11 (Diurno) e 25/11 (Noturno)
     - [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)
     - [Tutorial de regressão linear para calculo da herdabilidade](/bio208/static/pdfs/roteiros_listas/Tutorial_RL.pdf)
