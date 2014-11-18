@@ -10,8 +10,8 @@ Resposta:
 
 A seguinte população possui desequilibrio máximo:
 
-Genótipo Frequência
--------- ----------
+Haplótipo Frequência
+--------- ----------
  AB         0.5
  aB         0
  Ab         0
