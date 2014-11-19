@@ -15,7 +15,7 @@
 - [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)
 - [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)
 - [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) $\cdot$ D 24/11 $\cdot$ N 25/11
-- Lista 5 $\cdot$ D 01/12 $\cdot$ N 02/12
+- [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) $\cdot$ D 01/12 $\cdot$ N 02/12
 
 ####Recuperação
 
