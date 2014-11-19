@@ -1,16 +1,17 @@
 ---
-title: Bio 208 - Lista 5
-date: "Novembro 2014"
+title: "Bio 208 - Lista 5"
 lang: portuges
-output: rmarkdown::tufte_handout
+date: "Novembro 2014"
+output:
+   pdf_document:
+    includes:
+      in_header: header.tex
 ---
 
 
-\newthought{Uma pesquisadora está interessada} em estudar efeitos de mudanças climáticas na morfologia craniana de esquilos do gênero Tamias (esquilos parecidos com o Tico e Teco). Para isso ela mediu 4 caracteres cranianos de forma não invasiva (via tomografia computadorizada) em 500 indivíduos  desta espécie. Os caracteres medidos estão esquematicamente apresentados em um crânio de esquilo na figura abaixo. Do lado esquerdo podemos ver as correlações entre os diferentes caracteres medidos. Sendo os valores acima da diagonal os valores de correlação e os histogramas apresentados na diagonal representam a distribuição das medidas tomadas para cada medida. Os gráficos abaixo da diagonal representam os valores observados entre duas medidas, isto é, cada ponto é um indivíduo medido. No eixo x temos o valor dele na medida indicada em x e no eixo y o valor observado neste indivíduo para a medida indicada no eixo y. 
+Uma pesquisadora está interessada em estudar efeitos de mudanças climáticas na morfologia craniana de esquilos do gênero Tamias (esquilos parecidos com o Tico e Teco). Para isso ela mediu 4 caracteres cranianos de forma não invasiva (via tomografia computadorizada) em 500 indivíduos  desta espécie. Os caracteres medidos estão esquematicamente apresentados em um crânio de esquilo na figura abaixo. Do lado esquerdo podemos ver as correlações entre os diferentes caracteres medidos. Sendo os valores acima da diagonal os valores de correlação e os histogramas apresentados na diagonal representam a distribuição das medidas tomadas para cada medida. Os gráficos abaixo da diagonal representam os valores observados entre duas medidas, isto é, cada ponto é um indivíduo medido. No eixo x temos o valor dele na medida indicada em x e no eixo y o valor observado neste indivíduo para a medida indicada no eixo y. 
 
-\begin{figure}
-\includegraphics{fig1.jpg}
-\end{figure}
+![](/home/diogro/projects/Bio208/static/pdfs/roteiros_listas/fig1.jpg)
 
 Com estes dados ela calculou uma matriz de variância/covariância
 genética aditiva e as médias de cada medida (Tabelas 1 e 2)
@@ -32,7 +33,7 @@ rownames(media) = c("Média")
 library(xtable)
 options(xtable.comment = FALSE)
 options(xtable.booktabs = TRUE)
-xtable(matriz_G, caption = "Matriz G para a propulação")
+xtable(matriz_G, caption = "Matriz G para a população")
 ```
 ```{r, results='asis', echo= FALSE}
 xtable(media, caption = "Média para as quatro medidas antes da seleção")
@@ -49,7 +50,7 @@ rownames(beta_1) = c("Gradiente de Seleção")
 xtable(beta_1, caption = "Gradiente de seleção hipotético atuando sobre a medida 1")
 ```
 
-\newthought{Q1. Qual é a resposta esperada a esta seleção direcional?} (calcule o  $\Delta_Z$ e as novas médias esperadas após a seleção)
+Q1. Qual é a resposta esperada a esta seleção direcional? (calcule o  $\Delta_Z$ e as novas médias esperadas após a seleção)
 
  Agora faça o mesmo exercício baseado nos cinco gradientes de seleção abaixo:
 
@@ -65,10 +66,10 @@ rownames(betas) = c("Beta_1", "Beta_2", "Beta_3", "Beta_4", "Beta_5")
 xtable(t(betas))
 ```
 
-\newthought{Q2. Quais seriam as respostas esperadas para estes gradientes de seleção?} (novamente calcule o $\Delta_Z$ e as novas médias da população para cada vetor de seleção)
+Q2. Quais seriam as respostas esperadas para estes gradientes de seleção? (novamente calcule o $\Delta_Z$ e as novas médias da população para cada vetor de seleção)
 
 
-\newthought{Q3. Baseado nestas observações discuta}
+Q3. Baseado nestas observações discuta
 
 a) Você acha que a seleção natural é um agente otimizador ultra-eficiente capaz de otimizar cada parte de um organismo? (sim, não, porque?)
 
@@ -77,10 +78,3 @@ b) O que você entende por restrição evolutiva e quais as suas consequências 
 c) Comparando-se os gradientes de seleção 5 e 6 e as respostas produzidas em qual dos dois casos a restrição evolutiva foi maior? Por que?
 
 d) Qual a relação disto com a teoria de modularidade?
-
-
-
-
-
-
-
