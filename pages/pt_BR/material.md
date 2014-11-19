@@ -5,6 +5,11 @@ template: page.html
 - [Ementa da disciplina](/bio208/static/pdfs/ementa.pdf)
 - [Livro de genética de populações](/bio208/static/pdfs/livro_paulo_otto.pdf)
 
+#Artigos recomendados
+
+- [The Ecological Significance of Correlation Pleiades](http://www.jstor.org/stable/2405824)  ([pdf](/bio208/static/pdfs/artigos/Berg-1960.pdf))
+- [The road to modularity](http://www.nature.com/nrg/journal/v9/n12/abs/nrg2267.html) ([pdf](/bio208/static/pdfs/artigos/Wagner_etal-2007.pdf))
+
 #Slides de aula
 
 - [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/aulas2014/2014-aula01-hwp.pdf)
@@ -15,6 +20,7 @@ template: page.html
 - [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf)
 - [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)
 - [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))
+- [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))
 
 #Exercicios
 
