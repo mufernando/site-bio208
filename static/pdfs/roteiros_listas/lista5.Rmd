@@ -75,6 +75,6 @@ a) Você acha que a seleção natural é um agente otimizador ultra-eficiente ca
 
 b) O que você entende por restrição evolutiva e quais as suas consequências para a evolução?
 
-c) Comparando-se os gradientes de seleção 5 e 6 e as respostas produzidas em qual dos dois casos a restrição evolutiva foi maior? Por que?
+c) Comparando-se os gradientes de seleção 4 e 5 e as respostas produzidas em qual dos dois casos a restrição evolutiva foi maior? Por que?
 
 d) Qual a relação disto com a teoria de modularidade?
