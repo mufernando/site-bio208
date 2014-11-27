@@ -21,6 +21,8 @@ template: page.html
 - [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)
 - [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))
 - [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))
+<!--- [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
+- Unidade de seleção ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
 
 #Exercicios
 
