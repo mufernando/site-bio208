@@ -25,7 +25,7 @@ template: page.html
 7161952          Felipe Aoki Goncalves                           7.50       3.5        6.14
 7583081          Felipe Augusto de Padua Menossi      8.00
 7995622          Felippe Truglio Machado              9.30       9.00       7          6.66
-5644856          Fernando Thadeu Person dos Santos                                     3.36
+5644856          Fernando Thadeu Person dos Santos                                     3.76
 7995639          Francisco Melo Aires                                                  6.45
 7995427          Gabriel Bandeira do Carmo            9.60       4.50       6.5        7.95
 7995970          Gabriel Fujino Cerantola             3.50       3.00       5          6.02
@@ -44,7 +44,7 @@ template: page.html
 8140050          Lucas Carvalho Price                 5.50       8.50       9          7.40
 8541291          Lucas Haddad Meloni                  9.30       9.60       10         7.75
 7995452          Lucas Pelicer de Maia                7.00       6.25       2.5        5.11
-5644623          Luís Felipe Rodrigues Quadrante                                       7.15
+5644623          Luís Felipe Rodrigues Quadrante                                       8.00
 8541096          Marcelo Cavalcanti Sa de Abreu       7.25       7.25       6          9.04
 7995705          Maria Hausner Burlamaqui de Mello    7.00       5.50       6          4.16
 7995643          Mariana Brandão Prado                7.50       9.50       7          6.20
