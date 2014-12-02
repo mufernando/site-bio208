@@ -9,6 +9,8 @@ template: page.html
 
 - [The Ecological Significance of Correlation Pleiades](http://www.jstor.org/stable/2405824)  ([pdf](/bio208/static/pdfs/artigos/Berg-1960.pdf))
 - [The road to modularity](http://www.nature.com/nrg/journal/v9/n12/abs/nrg2267.html) ([pdf](/bio208/static/pdfs/artigos/Wagner_etal-2007.pdf))
+- [Systematic Generalization, Historical Fate, and the Species Problem](http://sysbio.oxfordjournals.org/content/42/3/231.abstract) ([pdf](/bio208/static/pdfs/artigos/OHara-1993.pdf))
+- [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)
 
 #Slides de aula
 
@@ -21,8 +23,8 @@ template: page.html
 - [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)
 - [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))
 - [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))
-<!--- [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
-- Unidade de seleção ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
+- [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
+- [Conceito de espécie](/bio208/static/pdfs/aulas2014/conceito_especie.ppt)
 
 #Exercicios
 
