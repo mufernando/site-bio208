@@ -25,6 +25,8 @@ template: page.html
 - [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))
 - [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
 - [Conceito de espécie](/bio208/static/pdfs/aulas2014/conceito_especie.ppt)
+- [Coevolução e macroevolução](/bio208/static/pdfs/aulas2014/coevolucao.pptx) ([video 2013](https://www.youtube.com/watch?v=p3kaFDX1GaM))
+- [Evolução e Desenvolvimento](/bio208/static/pdfs/aulas2014/desenvolvimento_e_evolucao.pptx) ([video 2013 + conceito de espécie](https://www.youtube.com/watch?v=wkAEd4FgiYw))
 
 #Exercicios
 
