@@ -73,7 +73,7 @@ template: page.html
 - [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)
 - [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)
 - [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)
-- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) para entregar em 24/11 (Diurno) e 25/11 (Noturno)
+- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) 
     - [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)
     - [Tutorial de regressão linear para calculo da herdabilidade](/bio208/static/pdfs/roteiros_listas/Tutorial_RL.pdf)
 - [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) para entregar em 01/12 (Diurno) e 02/12 (Noturno)
