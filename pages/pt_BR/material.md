@@ -76,4 +76,4 @@ template: page.html
 - [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) 
     - [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)
     - [Tutorial de regressão linear para calculo da herdabilidade](/bio208/static/pdfs/roteiros_listas/Tutorial_RL.pdf)
-- [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) para entregar em 01/12 (Diurno) e 02/12 (Noturno)
+- [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf) 
