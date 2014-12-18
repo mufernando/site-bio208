@@ -23,7 +23,6 @@ template: page.html
 8038494    Estevao Uyra Pardillos Vieira        9.50       9.00       9          8.11       8.50       5.55
 8940702    Evelyne Machado Amorim               3.83
 7161952    Felipe Aoki Goncalves                           7.50       3.5        6.14       10.00
-7583081    Felipe Augusto de Padua Menossi      8.00
 7995622    Felippe Truglio Machado              9.30       9.00       7          6.66       10.00      7.80
 5644856    Fernando Thadeu Person dos Santos                                     3.36
 7995639    Francisco Melo Aires                                                  6.45       10.00
@@ -32,7 +31,6 @@ template: page.html
 4532108    Gabriel Massami Izumi de Freitas     7.92                  5          7.14       9.00       9.35
 7582570    Gilberto Bérgamo Neto                3.50       3.00                  6.72       8.50       4.55
 7240196    Guilherme Prokisch de Oliveira       4.83       3.50       2          3.52
-5464355    Hugo Fernando de Souza Santos
 7990377    Indianara Sutil Zanon Rodrigues      10.00      10.00      8.5        8.16       10.00      9.85
 7234417    Isabela Castro Ramos                 5.00       9.25                  5.50       9.50       8.05
 8084916    Isabella Pires de Arruda Campos      7.35       9.70       5.5        6.69       10.00      8.90
@@ -51,18 +49,15 @@ template: page.html
 8541586    Mariana Citta Aguiar                 8.46                  4.5        6.44       9.50       4.75
 7582490    Marina Ribeiro Correa                8.16       7.40       8          6.19       10.00      7.20
 7995841    Mônica Akemi Otake                   7.00       9.25       6          7.65       9.50       8.70
-           Nityananda Portellada                5.41
 8541075    Paulo Roger Murillo Yugar                       5.25       6.5        7.04       8.00
 8541499    Pedro Henrique de Lima Pereira       8.00                  6          5.00       4.75
 8756488    Rafael Andrei Lamas                  8.53                  4.5        5.44       6.00       9.50
 7278761    Rafael Buoro Takahashi               2.50                             4.46
 7995809    Renan Lucas Siena Del Bel            9.25       7.50       6          8.29       9.50       9.70
-7994235    Rodolfo Oliveira Lorenzo             3.13       3.25
 8541415    Rodolfo Pereira Graciotti            6.50       6.50       7          7.36       10.00      4.75
 8541652    Sara Megumi Uchiyama                 0.00       6.75       6          4.79       10.00      9.40
 7996370    Sofia Lígia Guimarães Ramos          5.00       7.50       8          8.74       10.00      8.05
 7161841    Stephanie Heffer Cavaletti           5.25       8.25       6          3.25       9.50       0.00
-2022082    Suzana Helena Luchesi                6.68       5.00
 7577705    Tais Cavalheiro Battaggia            4.50       5.75       5.5        5.36
 8604724    Tatiana Orli Milkewitz Sandberg      8.80       8.00       7          6.94       9.50       5.15
 7582312    Thais Trostli Costella                                                7.45
@@ -77,7 +72,7 @@ template: page.html
                                                         Lista 1    Lista 2    Lista 3    Prova 1    Lista 4    Lista 5
 ------------  ---------------------------------------  ---------  ---------  ---------  ---------  ---------  ---------
 7278729       Adauto de Souza Spindola Junior          5.91       4.00       6          5.35       6.50       10.00
-              Adriana Navarro Bueno                    7.75       5.50       5.8        5.57       9.50       4.05
+5900052       Adriana Navarro Bueno                    7.75       5.50       5.8        5.57       9.50       4.05
 7582340       Alan Borges de Souza                     8.30                             3.50       8.50
 7157922       Andreza Lukosiunas                       6.40       7.00       4          4.00       9.50       8.00
 8068720       Arnaldo Bianco                           8.60       4.25       7.5        8.43       10.00      10.00
@@ -86,7 +81,6 @@ template: page.html
 7995581       Augusto Akio Lucchezi Miyahara           4.80       8.25       6          2.73       10.00
 7996004       Bruna Soares de Oliveira                 3.92       3.50                  5.38       9.50       9.00
 7996092       Bruno Henrique do Amaral                 8.00       9.00       7.5        7.60       9.50       9.75
-              Caio Malheiros                           4.85
 7657711       Caique Ferreira Lima
 6436758       Carolina Perozzi Guedes de Azevedo       8.25       8.50       5.83       9.15       10.00      10.00
 8132051       Daniel do Vale Lobo Bechara              2.00       0.00       4          6.68       9.50       9.60
@@ -109,7 +103,6 @@ template: page.html
 7995535       Isabela Castro de Oliveira               8.25                  7.5        5.27       8.50
 8485225       Jennyfer de Melo Matheus Gimenez         6.66                  4          6.07                  10.00
 6802516       João Cervelleira de Mello                           2.50       8          8.50       10.00
-2199927       Job Carvalho Bezerra
 7996050       Juliana Barbosa de Almeida Costa         6.50       9.25       7.5        4.93       10.00      7.50
 8604731       Juliana de Santana Figueiredo            5.50       4.50       8.8        5.10       10.00      6.70
 7659324       Karina Mitsuoika                         9.75                  5.5        3.64       10
@@ -117,16 +110,13 @@ template: page.html
 7278712       Kleber Mathubara Leite                              9.50       6.5        3.02       6.5
 7996154       Laís Helena Serra Ramalho
 7995768       Larissa Ferreira de Aquino               7.41       7.87       2          5.63       9.50       7.15
-6561442       Leonardo Santana Rezende                 7.50       3.00       6.33       6.23       8.50
 7995862       Lucas dos Santos Andrade                 4.52       3.25       5          6.43       10.00
 8125098       Luis Gustavo de Oliveira Paes Leme       3.25                             5.97       9.50
 8084962       Luiz Pimentel Mattos Neto                10.00      3.25       10         7.70       9.50       9.15
 7157338       Luiz Ribeiro Lai                         4.16       4.15       3.5        3.87       8.50       7.35
 8541401       Marcelo Shimabukuro Kai
 8068824       Maria Fernanda Pistori                   7.50       3.00       6.33       6.92       8.50
-7587112       Mariana Bastos Santos                    7.25
 6910361       Marianna Nogueira Limas                  9.50       7.00       7          8.99       10         4.05
-              Maria Wanessa da Silva                                                    3.00
 7150394       Marília Malheiros Munhoz                 6.00       9.25       9          6.47       9.50       9.85
 7996449       Melissa da Cruz Botelho                  5.10                  3          5.43       9.50
 7996202       Murillo Fernando Rodrigues               10.00      9.25       7.5        8.07       8.00       9.00
