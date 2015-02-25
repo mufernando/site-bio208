@@ -19,7 +19,7 @@
 
 ####Recuperação
 
-- 02/03/2015 $\cdot$ 14hs $\cdot$ local a confirmar
+- 02/03/2015 $\cdot$ 14hs $\cdot$ Sala 4 do Centro Didático
 
 
 </div>
