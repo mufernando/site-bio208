@@ -8,6 +8,6 @@
 
 #### Local $\cdot$ Minas II
 
-#### Atendimento
-- 3as Feiras 18 - 19h
-- LEM (Subsolo Minas nº3)
+<!--#### Atendimento-->
+<!--- 3as Feiras 18 - 19h-->
+<!--- LEM (Subsolo Minas nº3)-->
