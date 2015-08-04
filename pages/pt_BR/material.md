@@ -14,7 +14,7 @@ template: page.html
 
 #Slides de aula
 
-<!--- [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/aulas2014/2014-aula01-hwp.pdf)-->
+- [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/aulas2014/2014-aula01-hwp.pdf)
 <!--- [Deriva genética](/bio208/static/pdfs/aulas2014/deriva_2014.pdf)-->
 <!--- [Teoria neutra da evolução molecular](/bio208/static/pdfs/aulas2014/deriva_neutralidade_2014.pdf)-->
 <!--- [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)-->
