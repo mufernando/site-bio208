@@ -1,6 +1,5 @@
 template: post.html
-post: 3 
-titulo: Gabarito Aula - 1 
+post: 2
+titulo: Gabarito Aula - 1
 
-O gabarito da primeira aula tem apenas o exercÃcio 5, Ãnico nÃo resolvido em aula.
-![](/bio208/static/images/darwin.jpg)
+O gabarito da primeira aula tem apenas o exercício 5, único não resolvido em aula.

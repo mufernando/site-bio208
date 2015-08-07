@@ -3,62 +3,64 @@ template: page.html
 ### Cronograma
 
 ------------------------------------------------------------------------------------------------------------------
---Aula       Diurno     Noturno     Professor    Conte√∫do-
-----------    --------   ---------   -----------   -----------------------------------------------------------
---1            03 Ago     04 Ago     DM             Introdu√ß√£o, contagem de alelos, equilibrio de Hardy-Weinberg-
+  Aula         Diurno     Noturno     Professor    Conte˙do
+----------    --------   ---------   -----------   ---------------------------------------------------------------
+  1            03 Ago     04 Ago      DM            IntroduÁ„o, contagem de alelos, equilibrio de Hardy-Weinberg
 
---2            10 Ago     11 Ago     DM             Deriva gen√©tica Pr√°tica simula√ß√£o de deriva com feij√
+  2            10 Ago     11 Ago      DM            Deriva genÈtica
+                                                    __Pr·tica__: simulaÁ„o de deriva com feij„o
 
---3             7 Ago     18 Ago     DM             Deriva gen√©tica, tamanho efetivo e teoria neutra.-
+  3             7 Ago     18 Ago      DM            Deriva genÈtica, tamanho efetivo e teoria neutra
 
---4            24 Ago     25 Ago     DM             Introdu√ß√£√†sele√ß√£o naturalPr√°tic: modelos determin√≠sticosde sele√√o--
+  4            24 Ago     25 Ago      DM            IntroduÁ„o a seleÁ„o natural
+                                                    __Pr·tica__: modelos determinÌsticos de seleÁ„o
 
---5            31 Ago      1 Set     DM             Integra√ß√£o de processos evolutivas: a√ conjunta de sele√ß√£o, deriva e migr√o. Pr√°tia: simula√√es de sele√ß√£o e deriva no Populs--
+  5            31 Ago      1 Set      DM            IntegraÁ„o de processos evolutivas: aÁ„o conjunta de seleÁ„o, deriva e migraÁ„o.
+                                                     __Pr·tica__: simulaÁıes de seleÁ„o e deriva no Populus
 
-                7 Set      8 Set                    Feriado--
- 
---6            14 Set     15 Set     DM             Evolu√ß√£o do genoma e desequil√≠brde liga√√o--
+                7 Set      8 Set                    Feriado
 
---7            21 Set     22 Set     Glauco         Evolu√ß√£o do sexo
+  6            14 Set     15 Set      DM            EvoluÁ„o do genoma e desequilibrio de ligaÁ„o
 
---             28 Set     29 Set                    Prova 1--
+  7            21 Set     22 Set      Glauco        EvoluÁ„o do sexo
 
---8             5 Out      6 Out                    Semana Tematica--
+               28 Set     29 Set                    Prova 1
 
---             12 Out     13 Out                    Feriado Nossa Senhora Aparecida--
+  8             5 Out      6 Out                    Semana Tem·tica
 
---9            19 Out     20 Out     GM             Adapta√ß√£o e gen√©tica quantitativa 
+               12 Out     13 Out                    Feriado
 
---10           26 Out     27 Out     GM             Adapta√ß√£o e gen√©tica quantitativa  
+  9            19 Out     20 Out      GM            AdaptaÁ„o e genÈtica quantitativa 1
 
---              2 Nov      3 Nov                    Finados--
+  10           26 Out     27 Out      GM            AdaptaÁ„o e genÈtica quantitativa 2
 
---11            9 No      10 Nov     GM             Unidadade de sele√ß√£o
+                2 Nov      3 Nov                    Feriado
 
---12           16 Nov     17 Nov     GM             Conceito de esp√©cie-
+  11            9 No      10 Nov      GM            Unidadade de seleÁ„o
 
---13           23 Nov     24 Nov     GM             Coevolu√ß√£o e macroevo√√o--
---14           30 Nov      1 Dez     GM             Evolu√ß√£o e desenvolvimento
+  12           16 Nov     17 Nov      GM            Conceito de espÈcie
 
---15            7 Dez      8 Dez                    Prova 2--
+  13           23 Nov     24 Nov      GM            CoevoluÁ„o e macroevoÁ„o
+  14           30 Nov      1 Dez      GM            EvoluÁ„o e desenvolvimento
 
---            22/02/16                              Prova substitutiva/Recupera√ß√£o (ambas as turmas as 14 horas)
+  15            7 Dez      8 Dez                    Prova 2
+
+              22 Fev      22 Fev                    Prova substitutiva/RecuperaÁ„o (ambas as turmas as 14 horas)
 
 --------------------------------------------------------------------------------------------------------------
 
 
-<script>
-    $(function () {
-        $('tbody tr:nth-child(11)').addClass('feriado');
-        $('tbody tr:nth-child(19)').addClass('feriado');
-        $('tbody tr:nth-child(21)').addClass('feriado');
-        $('tbody tr:nth-child(27)').addClass('feriado');
-        $('tbody tr:nth-child(17)').addClass('prova');
-        $('tbody tr:nth-child(36)').addClass('prova');
-        $('tbody tr:nth-child(38)').addClass('prova');
-
-    });
-</script>
+<!--<script>-->
+    <!--$(function () {-->
+        <!--$('tbody tr:nth-child(11)').addClass('feriado');-->
+        <!--$('tbody tr:nth-child(19)').addClass('feriado');-->
+        <!--$('tbody tr:nth-child(21)').addClass('feriado');-->
+        <!--$('tbody tr:nth-child(27)').addClass('feriado');-->
+        <!--$('tbody tr:nth-child(17)').addClass('prova');-->
+        <!--$('tbody tr:nth-child(36)').addClass('prova');-->
+        <!--$('tbody tr:nth-child(38)').addClass('prova');-->
+    <!--});-->
+<!--</script>-->
 
 ###Google Calendar
 
