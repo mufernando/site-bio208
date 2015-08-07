@@ -44,13 +44,14 @@ template: page.html
 
 #Práticas
 
-<!--##Prática 1 - Deriva genética-->
+##Prática 1- Deriva
 
-<!--- [Roteiro Prática 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf)-->
+ [Roteiro Prática 1](/bio208/static/pdf/2015/listas/pratica1.pdf)
 <!--- Link da Planilha para preencher com os dados dos sorteios:-->
 
-<!--- [DIURNO](https://docs.google.com/spreadsheets/d/1jZbxJzstOdgaNADw6n1ov4pKo0l0dAD1uEcefAlFplI/edit#gid=0) ([Histograma](/bio208/static/pdfs/roteiros_listas/2014-Hist-Diurno-pratica1.pdf) e [Série Temporal](/bio208/static/pdfs/roteiros_listas/2014-TS-Diurno-pratica1.pdf))-->
-<!--- [NOTURNO](https://docs.google.com/spreadsheets/d/1Ohp7eJ9RQnDUsMamCgX_hvuPLSlQLAGrktFVR-p8VyI/edit#gid=0) ([Histograma](/bio208/static/pdfs/roteiros_listas/2014-Hist-Noturno-pratica1o.pdf) e [Série Temporal](/bio208/static/pdfs/roteiros_listas/2014-TS-Noturno-pratica1.pdf))-->
+<!--- [DIURNO]https://docs.google.com/spreadsheets/d/1GHVJbxSlOjDOkDDckmQNGsYG-E4A77CcSCRTMiChr-8/edit#gid=0 ([Histograma](/bio208/static/pdfs/roteiros_listas/2014-Hist-Diurno-pratica1.pdf) e [Série Temporal](/bio208/static/pdfs/roteiros_listas/2014-TS-Diurno-pratica1.pdf))-->
+<!--- [NOTURNO]https://docs.google.com/spreadsheets/d/1z3pJGTEwVpkkzL51oZeSZpygWFbnap8inxPL8w8lm-c/edit#gid=0 ([Histograma](/bio208/static/pdfs/roteiros_listas/2014-Hist-Noturno-pratica1o.pdf) e [Série Temporal](/bio208/static/pdfs/roteiros_listas/2014-TS-Noturno-pratica1.pdf))-->
+
 
 <!--- [Rotina em R para desenhar os histogramas](/bio208/static/pdfs/roteiros_listas/2014-pratica1-hist.R)-->
 <!--- [Rotina para analise combinada das duas turmas](/bio208/static/pdfs/roteiros_listas/2014-analise-feijoes.R)-->
