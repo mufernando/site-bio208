@@ -2,65 +2,55 @@ template: page.html
 
 ### Cronograma
 
-------------------------------------------------------------------------------------------------------------------
-  Aula         Diurno     Noturno     Professor    Conteúdo
-----------    --------   ---------   -----------   ---------------------------------------------------------------
-  1            03 Ago     04 Ago      DM            Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
+<!------------------------------------------------------------------------------------------------------------------>
+<!--Aula       Diurno     Noturno     Professor    ConteÃºdo-->
+<!----------    --------   ---------   -----------   ----------------------------------------------------------->
+<!--1            01-Sep     02-Sep     DM             IntroduÃ§Ã£o, contagem de alelos, equilibrio de Hardy-Weinberg-->
 
-  2            10 Ago     11 Ago      DM            Deriva genética
-                                                    __Prática__: simulação de deriva com feijão
+<!--Feriado      08-Sep     09-Sep-->
 
-  3             7 Ago     18 Ago      DM            Deriva genética, tamanho efetivo e teoria neutra
+<!--2            15-Sep     16-Sep     DM             Deriva genÃ©tica.-->
+<!--__PrÃ¡tica:__ simulaÃ§Ã£o de deriva com feijÃµes-->
 
-  4            24 Ago     25 Ago      DM            Introdução a seleção natural
-                                                    __Prática__: modelos determinísticos de seleção
+<!--3            22-Sep     23-Sep     DM             Deriva genÃ©tica, tamanho efetivo e teoria neutra.-->
 
-  5            31 Ago      1 Set      DM            Integração de processos evolutivas: ação conjunta de seleção, deriva e migração.
-                                                     __Prática__: simulações de seleção e deriva no Populus
+<!--4            29-Sep     30-Sep     DM             IntroduÃ§Ã£o Ã  seleÃ§Ã£o natural. __PrÃ¡tica__: modelos determinÃ­sticos de seleÃ§Ã£o.-->
 
-                7 Set      8 Set                    Feriado
+<!--5            06-Oct     07-Oct     DM              IntegraÃ§Ã£o de processos evolutivas: aÃ§Ã£o conjunta-->
+<!--de seleÃ§Ã£o, deriva e migraÃ§Ã£o. __PrÃ¡tica__: simulaÃ§Ãµes-->
+<!--de seleÃ§Ã£o e deriva no Populus-->
 
-  6            14 Set     15 Set      DM            Evolução do genoma e desequilibrio de ligação
+<!--6            13-Oct     14-Oct     Glauco         EvoluÃ§Ã£o do sexo-->
 
-  7            21 Set     22 Set      Glauco        Evolução do sexo
+<!--7            20-Oct     21-Oct     DM             EvoluÃ§Ã£o do genoma e desequilÃ­brio de ligaÃ§Ã£o.-->
 
-               28 Set     29 Set                    Prova 1
+<!--Feriado      27-Oct     28-Oct-->
 
-  8             5 Out      6 Out                    Semana Temática
+<!--8            03-Nov     04-Nov                    Prova 1-->
 
-               12 Out     13 Out                    Feriado
+<!--9            10-Nov     11-Nov     GM             AdaptaÃ§Ã£o e genÃ©tica quantitativa 1-->
 
-  9            19 Out     20 Out      GM            Adaptação e genética quantitativa 1
+<!--10           17-Nov     18-Nov     GM             AdaptaÃ§Ã£o e genÃ©tica quantitativa  2-->
 
-  10           26 Out     27 Out      GM            Adaptação e genética quantitativa 2
+<!--11           24-Nov     25-Nov     GM             Unidadade de seleÃ§Ã£o-->
 
-                2 Nov      3 Nov                    Feriado
+<!--12           01-Dec     02-Dec     GM             Conceito de espÃ©cie-->
 
-  11            9 No      10 Nov      GM            Unidadade de seleção
+<!--13           08-Dec     09-Dec     GM             CoevoluÃ§Ã£o e macroevoluÃ§Ã£o;-->
+<!--EvoluÃ§Ã£o e desenvolvimento-->
 
-  12           16 Nov     17 Nov      GM            Conceito de espécie
+<!--14           15-Dec     16-Dec                      Prova 2-->
 
-  13           23 Nov     24 Nov      GM            Coevolução e macroevoção
-  14           30 Nov      1 Dez      GM            Evolução e desenvolvimento
+<!-------------------------------------------------------------------------------------------------------------->
 
-  15            7 Dez      8 Dez                    Prova 2
-
-              22 Fev      22 Fev                    Prova substitutiva/Recuperação (ambas as turmas as 14 horas)
-
---------------------------------------------------------------------------------------------------------------
-
-
-<!--<script>-->
-    <!--$(function () {-->
-        <!--$('tbody tr:nth-child(11)').addClass('feriado');-->
-        <!--$('tbody tr:nth-child(19)').addClass('feriado');-->
-        <!--$('tbody tr:nth-child(21)').addClass('feriado');-->
-        <!--$('tbody tr:nth-child(27)').addClass('feriado');-->
-        <!--$('tbody tr:nth-child(17)').addClass('prova');-->
-        <!--$('tbody tr:nth-child(36)').addClass('prova');-->
-        <!--$('tbody tr:nth-child(38)').addClass('prova');-->
-    <!--});-->
-<!--</script>-->
+<script>
+    $(function () {
+        $('tbody tr:nth-child(2)').addClass('feriado');
+        $('tbody tr:nth-child(9)').addClass('feriado');
+        $('tbody tr:nth-child(10)').addClass('prova');
+        $('tbody tr:nth-child(16)').addClass('prova');
+    });
+</script>
 
 ###Google Calendar
 

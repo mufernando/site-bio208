@@ -1,5 +1,5 @@
 template: post.html
 post: 2
-titulo: Gabarito Aula - 1
+titulo: Gabarito da aula 1
 
-O gabarito da primeira aula tem apenas o exercício 5, único não resolvido em aula.
+O gabarito dos exercÃ­cios da primeira aula estarÃ¡ disponÃ­vel no site no dia 05/08.
