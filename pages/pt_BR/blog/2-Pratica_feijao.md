@@ -1,10 +1,6 @@
 template: post.html
-post: 2 
-titulo: Pratica_2
+post: 3 
+titulo: Gabarito_ex_Aula_1 
 
-Bem vindos ao site da disciplina Bio 208 - Processos Evolutivos 2015.
-Vamos colocar aqui textos complementares, material de aula e avisos
-pertinentes à disciplina. Além disso, você poderá acompanhar o
-calendário, conferir notas e achar referencias ligadas ao curso.
-
+O gabarito dos exercicios da primeira aula estará disponivel no site no dia 05/08.
 ![](/bio208/static/images/darwin.jpg)
