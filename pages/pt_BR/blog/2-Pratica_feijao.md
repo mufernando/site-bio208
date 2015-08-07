@@ -1,6 +1,6 @@
 template: post.html
 post: 3 
-titulo: Gabarito_ex_Aula_1 
+titulo: Gabarito Aula - 1 
 
-O gabarito dos exercicios da primeira aula estar√° disponivel no site no dia 05/08.
+O gabarito da primeira aula tem apenas o exerc√cio 5, √nico n√o resolvido em aula.
 ![](/bio208/static/images/darwin.jpg)
