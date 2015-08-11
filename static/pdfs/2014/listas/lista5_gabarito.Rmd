@@ -1,0 +1,103 @@
+---
+title: "Bio 208 - Lista 5"
+lang: portuges
+date: "Novembro 2014"
+output:
+   pdf_document:
+    includes:
+      in_header: header.tex
+---
+
+
+Uma pesquisadora está interessada em estudar efeitos de mudanças climáticas na morfologia craniana de esquilos do gênero Tamias (esquilos parecidos com o Tico e Teco). Para isso ela mediu 4 caracteres cranianos de forma não invasiva (via tomografia computadorizada) em 500 indivíduos  desta espécie. Os caracteres medidos estão esquematicamente apresentados em um crânio de esquilo na figura abaixo. Do lado esquerdo podemos ver as correlações entre os diferentes caracteres medidos. Sendo os valores acima da diagonal os valores de correlação e os histogramas apresentados na diagonal representam a distribuição das medidas tomadas para cada medida. Os gráficos abaixo da diagonal representam os valores observados entre duas medidas, isto é, cada ponto é um indivíduo medido. No eixo x temos o valor dele na medida indicada em x e no eixo y o valor observado neste indivíduo para a medida indicada no eixo y. 
+
+![](/home/diogro/projects/Bio208/static/pdfs/roteiros_listas/fig1.jpg)
+
+Com estes dados ela calculou uma matriz de variância/covariância
+genética aditiva e as médias de cada medida (Tabelas 1 e 2)
+
+
+```{r, echo = FALSE}
+matriz_G = matrix(c(1.024, 0.840, 0.039, -0.103,
+                    0.840, 0.859, 0.033, -0.105, 
+                    0.039, 0.033, 0.606, 0.485, 
+                    -0.103, -0.105, 0.485, 0.507), 4, 4)
+colnames(matriz_G) = c("Medida_1", "Medida_2","Medida_3","Medida_4")
+rownames(matriz_G) = c("Medida_1", "Medida_2","Medida_3","Medida_4")
+media = matrix(c(8.928, 10.690, 9.579, 5.811), 1, 4)
+colnames(media) = c("Medida_1", "Medida_2","Medida_3","Medida_4")
+rownames(media) = c("Média")
+```
+
+```{r, results='asis', echo = FALSE}
+library(xtable)
+options(xtable.comment = FALSE)
+options(xtable.booktabs = TRUE)
+xtable(matriz_G, caption = "Matriz G para a população")
+```
+```{r, results='asis', echo= FALSE}
+xtable(media, caption = "Média para as quatro medidas antes da seleção")
+```
+
+\newpage
+
+A partir destes dados, tal pesquisadora (e você também) pode então analisar quais efeitos que diferentes regimes seletivos teriam para a morfologia craniana desta espécie. Por exemplo, qual efeito esperaríamos para as médias caso essa população sofra seleção direcional pelo seguinte gradiente de seleção, que atua somente sobre a medida 1:
+
+```{r, results='asis', echo= FALSE}
+beta_1 = matrix(c(1, 0, 0, 0), 1, 4)
+colnames(beta_1) = c("Medida_1", "Medida_2","Medida_3","Medida_4")
+rownames(beta_1) = c("Gradiente de Seleção")
+xtable(beta_1, caption = "Gradiente de seleção hipotético atuando sobre a medida 1")
+```
+
+Q1. Qual é a resposta esperada a esta seleção direcional? (calcule o  $\Delta_Z$ e as novas médias esperadas após a seleção)
+
+```{r}
+matriz_G
+beta_1
+delta_z = matriz_G %*% t(beta_1)
+colnames(delta_z) = "resposta"
+(delta_z)
+(nova_media = t(media) + delta_z)
+```
+
+ Agora faça o mesmo exercício baseado nos cinco gradientes de seleção abaixo:
+
+```{r, results='asis', echo= FALSE}
+betas = matrix(c(0, 1, 0, 0,
+                 0, 0, 1, 0,
+                 0, 0, 0, 1,
+                 1, 1, -1, -1, 
+                 1, -1, 1, -1)
+               , 5, 4, byrow = TRUE)
+colnames(betas) = c("Medida_1", "Medida_2","Medida_3","Medida_4")
+rownames(betas) = c("Beta_1", "Beta_2", "Beta_3", "Beta_4", "Beta_5")
+xtable(t(betas))
+```
+
+Q2. Quais seriam as respostas esperadas para estes gradientes de seleção? (novamente calcule o $\Delta_Z$ e as novas médias da população para cada vetor de seleção)
+
+```{r}
+matriz_G
+t(betas)
+delta_zs = matriz_G %*% t(betas)
+colnames(delta_zs) = paste0("resposta", 1:5)
+(delta_zs)
+(nova_medias = rep(media, 5) + delta_zs)
+```
+
+Q3. Baseado nestas observações discuta
+
+a) Você acha que a seleção natural é um agente otimizador ultra-eficiente capaz de otimizar cada parte de um organismo? (sim, não, porque?)
+
+Não, várias das respostas são na direção contrária a seleção, devido ao efeito da seleção correlacionada a caracteres dentro do mesmo módulo.
+
+b) O que você entende por restrição evolutiva e quais as suas consequências para a evolução?
+
+Restrição evolutiva é qualquer alteração na direção e magnitude do vetor de resposta em relação ao gradiente de seleção. A restrição pode tanto prejudicar a resposta à seleção, levando a um diminuição da aptidão, quanto auxilia-lá, garantindo que caracteres funcionalmente ligados evoluam juntos e se mantenham funcionalmente compatíveis.
+
+c) Comparando-se os gradientes de seleção 4 e 5 e as respostas produzidas em qual dos dois casos a restrição evolutiva foi maior? Por que? Qual a relação disto com a teoria de modularidade?
+
+No cenário 5 várias das respostas são na direção oposta ao gradiente de seleção, além de possuirem magnitudes muito baixas. Isso indica uma forte restrição atuando, e isso é esperado dado o gradiente 5, que privilegia mudanças em direções opostas de caracteres com forte correlação positiva, que portanto pertencem ao mesmo módulo variacional. 
+
+
