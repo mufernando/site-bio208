@@ -13,8 +13,8 @@ template: page.html
 - [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)
 
 #Slides de aula
- - [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/aulas2014/2014-aula01-hwp.pdf)
- - [Deriva genética](/bio208/static/pdfs/2015/aulas2015/deriva_2015.pdf)
+ - [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula01.pdf)
+ - [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
 <!--- [Teoria neutra da evolução molecular](/bio208/static/pdfs/aulas2014/deriva_neutralidade_2014.pdf)-->
 <!--- [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)-->
 <!--- [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))-->
@@ -45,7 +45,7 @@ template: page.html
 
 ###Prática 1- Deriva Genética
 
- [Roteiro Prática 1](/bio208/static/pdf/2015/listas/pratica1.pdf)
+ [Roteiro Prática 1](/bio208/static/pdfs/2015/roteiros/pratica_1.pdf)
  
 <!--- Link da Planilha para preencher com os dados dos sorteios:-->
 
