@@ -2,12 +2,17 @@
 ## Aulas
 
 
-#### Diurno $\cdot$ Seg. 14h-18h
+### Diurno $\cdot$ Seg. 14h-18h
 
-#### Noturno $\cdot$ Ter. 19h-23h
+#### Local $\cdot$ AG.Botânica
 
-#### Local $\cdot$ Minas II
 
-<!--#### Atendimento-->
-<!--- 3as Feiras 18 - 19h-->
-<!--- LEM (Subsolo Minas nº3)-->
+### Noturno $\cdot$ Ter. 19h-23h
+
+#### Local $\cdot$ Minas I
+
+## Atendimento
+- Local: LEM (Subsolo Minas nº3)
+- 5as Feiras 10 - 11h $\cdot$ Lúcia
+- 5as Feiras 18 - 19h $\cdot$ Carol
+- 6as Feiras 18 - 19h $\cdot$ Luiz

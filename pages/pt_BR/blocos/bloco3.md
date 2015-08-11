@@ -11,7 +11,7 @@
 
 ####Entrega de listas
 
-<!--- [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)-->
+- [Roteiro Deriva](/bio208/static/pdfs/roteiros/2015/pratica_1.pdf) $\cdot$ D 17/08 $\cdot$ N 18/08 <!---[gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)-->
 <!--- [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
 <!--- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
 <!--- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf)-->
