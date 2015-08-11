@@ -6,8 +6,8 @@
 <div class="panel-body">
 
 ####Provas
-<!--- Prova 1 $\cdot$ D 03/11 $\cdot$ N 04/11-->
-<!--- Prova 2 $\cdot$ D 15/12 $\cdot$ N 16/12-->
+- Prova 1 $\cdot$ D 28/09 $\cdot$ N 29/09
+- Prova 2 $\cdot$ D 07/12 $\cdot$ N 08/12
 
 ####Entrega de listas
 
