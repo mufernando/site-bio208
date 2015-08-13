@@ -11,7 +11,9 @@
 
 #### Local $\cdot$ Minas I
 
-## Atendimento
+<br />  <!--quebra de linha-->
+
+### Atendimento dessa semana
 - Local: LEM (Subsolo Minas nº3)
 - 5as Feiras 10 - 11h $\cdot$ Lúcia
 - 5as Feiras 18 - 19h $\cdot$ Carol

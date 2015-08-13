@@ -9,6 +9,5 @@
 ###Monitores
 
 - <a href='mailto:lc.machado.oliveira@gmail.com'>Luiz Carlos Machado</a>
-- <A HREF="mailto:carol.simoes16@gmail.com">Carol Simões</A>
+- <A HREF="mailto:carol.simoes16@gmail.com">Carol Lima</A>
 - <a href='mailto:lucia.neco@hotmail.com'>Lúcia Neco</a>
-
