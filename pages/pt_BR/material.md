@@ -15,7 +15,7 @@ template: page.html
 #Slides de aula
  - [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
  - [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
-<!--- [Teoria neutra da evolução molecular](/bio208/static/pdfs/aulas2014/deriva_neutralidade_2014.pdf)-->
+ - [Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
 <!--- [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)-->
 <!--- [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))-->
 <!--- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf)-->
@@ -46,7 +46,7 @@ template: page.html
 ###Prática 1- Deriva Genética
 
  [Roteiro Prática 1](/bio208/static/pdfs/2015/roteiros/pratica_1.pdf)
- 
+
 <!--- Link da Planilha para preencher com os dados dos sorteios:-->
 
 <!--- [DIURNO]https://docs.google.com/spreadsheets/d/1GHVJbxSlOjDOkDDckmQNGsYG-E4A77CcSCRTMiChr-8/edit#gid=0 ([Histograma](/bio208/static/pdfs/roteiros_listas/2014-Hist-Diurno-pratica1.pdf) e [Série Temporal](/bio208/static/pdfs/roteiros_listas/2014-TS-Diurno-pratica1.pdf))-->
