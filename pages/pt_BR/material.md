@@ -45,7 +45,7 @@ template: page.html
 
 ###Prática 1- Deriva Genética
 
- [Roteiro Prática 1](/bio208/static/pdfs/2015/roteiros/pratica_1.pdf)
+ - [Roteiro Prática 1](/bio208/static/pdfs/2015/roteiros/pratica_1.pdf)
 
 <!--- Link da Planilha para preencher com os dados dos sorteios:-->
 
@@ -56,10 +56,10 @@ template: page.html
 <!--- [Rotina em R para desenhar os histogramas](/bio208/static/pdfs/roteiros_listas/2014-pratica1-hist.R)-->
 <!--- [Rotina para analise combinada das duas turmas](/bio208/static/pdfs/roteiros_listas/2014-analise-feijoes.R)-->
 
-<!--##Prática 2 - Seleção natural-->
+##Prática 2 - Seleção natural
 
-<!--- [Roteiro prática 2](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica2.pdf)-->
-<!--- [Planilha prática 2](/bio208/static/pdfs/roteiros_listas/2014-planilha-pratica2.xlsx)-->
+- [Roteiro prática 2](/bio208/static/pdfs/2015/roteiros/pratica2_selecao_populus_v2.doc.docx)
+- [Planilha prática 2](/bio208/static/pdfs/2015/roteiros/2015-planilha-pratica2.xlsx)
 
 <!--##Prática 3 - Seleção natural e deriva-->
 
