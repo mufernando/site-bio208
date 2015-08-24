@@ -17,4 +17,4 @@
 - Local: LEM (Subsolo Minas nº3)
 - 3as Feiras 18 - 19h $\cdot$ Carol
 - 4as Feiras 18 - 19h $\cdot$ Luiz
-- 6as Feiras 10 - 11h $\cdot$ Lúcia
+- 6as Feiras 9 - 10h $\cdot$ Lúcia
