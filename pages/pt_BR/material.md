@@ -13,10 +13,10 @@ template: page.html
 - [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)
 
 #Slides de aula
- - [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
- - [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
- - [Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
-<!--- [Seleção natural](/bio208/static/pdfs/aulas2014/selecao_2014.pdf)-->
+ [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
+ [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
+ [Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
+ [Seleção natural](/bio208/static/pdfs/2015/aulas/selecao_2015.pdf)
 <!--- [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))-->
 <!--- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf)-->
 <!--- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)-->
@@ -70,7 +70,8 @@ template: page.html
 <!--- [Noturno](https://docs.google.com/spreadsheets/d/1eOEO5_rTXby6lbp0NSWk0OhCsZQ3bTmPo-Xk14dAO_8)-->
 
 #Listas
-
+  
+[Lista 1](/bio208/static/pdfs/2015/listas/lista1_2015.pdf) 
 <!--- [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)-->
 <!--- [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
 <!--- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
