@@ -63,6 +63,31 @@ template: page.html
     });
 </script>
 
-###Google Calendar
+
+##Datas de entrega de lista de exercícios (14:05hs e 19:05hs).	
+ 
+Prática 1 : 17 e 18/08	
+
+Lista 1 : 31 e 01/09
+	
+Lista 2 : 14 e 15/09 
+
+Lista 3: 26 e 27/10
+	
+Lista 4: 09 e 10/11	
+  
+	
+  
+##Avaliação	
+  
+	
+Média das Atividades:	
+
+MA = [P1 + L1 + L2 + L3 + L4] / 5 
+
+Nota final: Prova 1 * 0.4 + Prova 2 * 0.4 + MA * 0.2	
+
+
+<!--###Google Calendar-->
 
  <!--<iframe src="https://www.google.com/calendar/embed?title=Bio%20208%20-%20Processos%20Evolutivos&amp;showPrint=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5agq4u67jo7nl24noqiavmsd6c%40group.calendar.google.com&amp;color=%23875509&amp;src=d3jivrjfvrkbbgejeo3skh6a9o%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FSao_Paulo" style=" border-width:0 " width="800" height="400" frameborder="0" scrolling="no"></iframe>-->
