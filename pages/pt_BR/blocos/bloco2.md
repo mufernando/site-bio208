@@ -16,5 +16,5 @@
 ### Atendimento dessa semana
 - Local: LEM (Subsolo Minas nº3)
 - 3as Feiras 18 - 19h $\cdot$ Carol
-- 4as Feiras 18 - 19h $\cdot$ Luiz
-- 6as Feiras 9 - 10h $\cdot$ Lúcia
+- 5as Feiras 17:30 - 18:30h $\cdot$ Lúcia
+- 6as Feiras 13 - 14h $\cdot$ Luiz
