@@ -79,6 +79,7 @@ template: page.html
 
 [Lista 1](/bio208/static/pdfs/2015/listas/lista1_2015.pdf)
 <!--- [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)-->
+
 [Lista 2](/bio208/static/pdfs/2015/listas/lista2_2015.pdf)
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
 <!--- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
