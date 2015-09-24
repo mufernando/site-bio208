@@ -24,8 +24,10 @@ template: page.html
  [Seleção natural e deriva](/bio208/static/pdfs/2015/aulas/integrando_processos_2015.pdf)
 
 <!--- ([video](http://iptv.usp.br/portal/video.action?idItem=24406) -->
-<!--- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf)-->
-<!--- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)-->
+ [Desequilibrio de ligação](/bio208/static/pdfs/2015/aulas/aula6_ld.pdf) e [Evolução do genôma](/bio208/static/pdfs/2015/aulas/aula6_genoma.pdf)
+
+ [Seleção sexual](/bio208/static/pdfs/2015/aulas/SeleçãoSexual.pdf)
+
 <!--- [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))-->
 <!--- [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))-->
 <!--- [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
