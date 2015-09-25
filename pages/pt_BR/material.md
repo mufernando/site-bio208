@@ -26,7 +26,7 @@ template: page.html
 <!--- ([video](http://iptv.usp.br/portal/video.action?idItem=24406) -->
  [Desequilibrio de ligação](/bio208/static/pdfs/2015/aulas/aula6_ld.pdf) e [Evolução do genôma](/bio208/static/pdfs/2015/aulas/aula6_genoma.pdf)
 
- [Seleção sexual](/bio208/static/pdfs/2015/aulas/SeleçãoSexual.pdf)
+ [Seleção sexual](/bio208/static/pdfs/2015/aulas/selecao_sexual15.pdf)
 
 <!--- [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))-->
 <!--- [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))-->
