@@ -28,7 +28,9 @@ template: page.html
 
  [Seleção sexual](/bio208/static/pdfs/2015/aulas/selecao_sexual15.pdf)
 
-<!--- [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))-->
+[Adaptação e genética quantitativa I](/bio208/static/pdfs/2015/aulas/adaptacao_genetica_quantitativa_1-2015.pdf)
+
+<!---([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))-->
 <!--- [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))-->
 <!--- [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
 <!--- [Conceito de espécie](/bio208/static/pdfs/aulas2014/conceito_especie.ppt)-->
@@ -76,6 +78,13 @@ template: page.html
 
 <!--- [Diurno](https://docs.google.com/spreadsheets/d/1xFXMwo76CAUCUe8ozyXeIliKd1TGkcc8eJ11mjQt0BA)-->
 <!--- [Noturno](https://docs.google.com/spreadsheets/d/1eOEO5_rTXby6lbp0NSWk0OhCsZQ3bTmPo-Xk14dAO_8)-->
+
+##Prática 3 - Genética Quantitativa
+
+- [Diurno](https://docs.google.com/spreadsheets/d/1go16jkiaENbKI1MSzpjzRohHX4FGks2NWN2cfHHhiVQ/edit#gid=0)
+- [Noturno](https://docs.google.com/spreadsheets/d/1H9XIt3sXWEiYAj-ubvVJ-yaWcwvpo0T-0f17mWmr_KU/edit#gid=0)
+
+
 
 #Listas
 
