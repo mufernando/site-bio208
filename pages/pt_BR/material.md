@@ -93,7 +93,11 @@ template: page.html
 
 [Lista 2](/bio208/static/pdfs/2015/listas/lista2_2015.pdf)
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
-<!--- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
+
+[Lista 3](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx)
+- [Planilha de dados](/bio208/static/pdfs/2015/listas/medidas.ods) 
+
+<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
 <!--- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) -->
 <!--- [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)-->
 <!--- [Tutorial de regressão linear para calculo da herdabilidade](/bio208/static/pdfs/roteiros_listas/Tutorial_RL.pdf)-->
