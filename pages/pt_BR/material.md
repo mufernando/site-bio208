@@ -4,6 +4,7 @@ template: page.html
 
 <!--- [Ementa da disciplina](/bio208/static/pdfs/ementa.pdf)-->
 - [Livro de genética de populações](/bio208/static/pdfs/livro_paulo_otto.pdf)
+- [Capítulo Templeton - Unidade e Alvo de seleção](/bio208/static/pdfs/2015/3_ProvEnv_13_templeton_RB.pdf)
 
 #Artigos recomendados
 
@@ -79,7 +80,7 @@ template: page.html
 <!--- [Diurno](https://docs.google.com/spreadsheets/d/1xFXMwo76CAUCUe8ozyXeIliKd1TGkcc8eJ11mjQt0BA)-->
 <!--- [Noturno](https://docs.google.com/spreadsheets/d/1eOEO5_rTXby6lbp0NSWk0OhCsZQ3bTmPo-Xk14dAO_8)-->
 
-##Prática 3 - Genética Quantitativa
+###Prática 3 - Genética Quantitativa
 
 - [Diurno](https://docs.google.com/spreadsheets/d/1go16jkiaENbKI1MSzpjzRohHX4FGks2NWN2cfHHhiVQ/edit#gid=0)
 - [Noturno](https://docs.google.com/spreadsheets/d/1H9XIt3sXWEiYAj-ubvVJ-yaWcwvpo0T-0f17mWmr_KU/edit#gid=0)
@@ -95,10 +96,12 @@ template: page.html
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
 
 [Lista 3](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx)
-- [Planilha de dados](/bio208/static/pdfs/2015/listas/medidas.ods) 
+- [Planilha de dados](/bio208/static/pdfs/2015/listas/medidas.ods)
 
-<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
-<!--- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) -->
+<!--- [gabarito](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx)-->
+[Lista 4](/bio208/static/pdfs/2015/listas/exercicio_de_selecao_2015_FINAL.docx)
+
+<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) -->
 <!--- [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)-->
 <!--- [Tutorial de regressão linear para calculo da herdabilidade](/bio208/static/pdfs/roteiros_listas/Tutorial_RL.pdf)-->
 <!--- [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf) -->

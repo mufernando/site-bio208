@@ -17,8 +17,10 @@
  <!--[gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
 - [Lista 2](/bio208/static/pdfs/2015/listas/lista2_2015.pdf) $\cdot$ D 14/09 $\cdot$ N 15/09
  <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
-<!--- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf)-->
-<!--- [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) $\cdot$ [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf)-->
+- [Lista 3](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx) $\cdot$ D 09/11  $\cdot$ N 10/11
+<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf)-->
+- [Lista 4](/bio208/static/pdfs/2015/listas/exercicio_de_selecao_2015_FINAL.docx) $\cdot$ D 30/11  $\cdot$ N 01/12
+<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf)-->
 
 ####Recuperação
 

@@ -72,9 +72,9 @@ Lista 1 : 31 e 01/09
 
 Lista 2 : 14 e 15/09
 
-Lista 3: 26 e 27/10
+Lista 3: 09 e 10/11
 
-Lista 4: 09 e 10/11
+Lista 4: 30/11 e 01/12
 
 
 
