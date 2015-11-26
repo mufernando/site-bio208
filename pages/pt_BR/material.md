@@ -103,7 +103,7 @@ template: page.html
 - [Planilha de dados](/bio208/static/pdfs/2015/listas/medidas.ods)
 
 <!--- [gabarito](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx)-->
-[Lista 4](/bio208/static/pdfs/2015/listas/exercicio_de_selecao_2015_FINAL.docx)
+[Lista 4](/bio208/static/pdfs/2015/listas/exercicio_de_selecao_2015_FINAL.pdf)
 
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) -->
 <!--- [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)-->
