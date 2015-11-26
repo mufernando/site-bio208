@@ -10,11 +10,3 @@
 ### Noturno $\cdot$ Ter. 19h-23h
 
 #### Local $\cdot$ Minas I
-
-<br />  <!--quebra de linha-->
-
-### Atendimento dessa semana
-- Local: LEM (Subsolo Minas nº3)
-- 3as Feiras 18 - 19h $\cdot$ Carol
-- 4as Feiras 18 - 19h $\cdot$ Luiz
-- 6as Feiras 9 - 10h $\cdot$ Lúcia

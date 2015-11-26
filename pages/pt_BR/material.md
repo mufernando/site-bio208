@@ -4,6 +4,7 @@ template: page.html
 
 <!--- [Ementa da disciplina](/bio208/static/pdfs/ementa.pdf)-->
 - [Livro de genética de populações](/bio208/static/pdfs/livro_paulo_otto.pdf)
+- [Capítulo Templeton - Unidade e Alvo de seleção](/bio208/static/pdfs/2015/3_ProvEnv_13_templeton_RB.pdf)
 
 #Artigos recomendados
 
@@ -13,17 +14,31 @@ template: page.html
 - [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)
 
 #Slides de aula
-- [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
-- [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
-- [Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
-- [Seleção natural](/bio208/static/pdfs/2015/aulas/selecao_2015.pdf)
-<!--- [Seleção natural e deriva](/bio208/static/pdfs/aulas2014/integrando_processos.pdf) ([video](http://iptv.usp.br/portal/video.action?idItem=24406))-->
-<!--- [Seleção sexual](/bio208/static/pdfs/aulas2014/selecao_sexual.pdf)-->
-<!--- [Desequilibrio de ligação](/bio208/static/pdfs/aulas2014/aula6_ld.pdf) e [evolução do genôma](/bio208/static/pdfs/aulas2014/aula6_genoma.pdf)-->
-<!--- [Adaptação e genética quantitativa I](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_1.ppt) ([video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk))-->
-<!--- [Adaptação e genética quantitativa II](/bio208/static/pdfs/aulas2014/adaptacao_genetica_quantitativa_2.ppt) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))-->
-<!--- [Unidade de seleção](/bio208/static/pdfs/aulas2014/unidade_de_selecao.ppt) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
-<!--- [Conceito de espécie](/bio208/static/pdfs/aulas2014/conceito_especie.ppt)-->
+ [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
+
+ [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
+
+ [Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
+
+ [Seleção natural](/bio208/static/pdfs/2015/aulas/selecao_2015.pdf)
+
+ [Seleção natural e deriva](/bio208/static/pdfs/2015/aulas/integrando_processos_2015.pdf)
+
+<!--- ([video](http://iptv.usp.br/portal/video.action?idItem=24406) -->
+ [Desequilibrio de ligação](/bio208/static/pdfs/2015/aulas/aula6_ld.pdf) e [Evolução do genôma](/bio208/static/pdfs/2015/aulas/aula6_genoma.pdf)
+
+ [Seleção sexual](/bio208/static/pdfs/2015/aulas/selecao_sexual15.pdf)
+
+[Adaptação e genética quantitativa I](/bio208/static/pdfs/2015/aulas/variacao_continua_e_evolucao_morfologica_part_I_2015.pdf) e
+[video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk)
+
+[Adaptação e genética quantitativa II](/bio208/static/pdfs/2015/aulas/variacao_continua_e_evolucao_morfologica_2015_part_II_p97.pdf) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))
+
+[Unidade de seleção](/bio208/static/pdfs/2015/aulas/unidades_de_selecao_2015.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
+
+[Conceito de espécie](/bio208/static/pdfs/2015/aulas/conceitos_de_especies_2015.pdf)
+
+
 <!--- [Especiação](/bio208/static/pdfs/aulas2014/especiacao_2014.pdf)-->
 <!--- [Coevolução e macroevolução](/bio208/static/pdfs/aulas2014/coevolucao.pptx) ([video 2013](https://www.youtube.com/watch?v=p3kaFDX1GaM))-->
 <!--- [Evolução e Desenvolvimento](/bio208/static/pdfs/aulas2014/desenvolvimento_e_evolucao.pptx) ([video 2013 + conceito de espécie](https://www.youtube.com/watch?v=wkAEd4FgiYw))-->
@@ -69,13 +84,28 @@ template: page.html
 <!--- [Diurno](https://docs.google.com/spreadsheets/d/1xFXMwo76CAUCUe8ozyXeIliKd1TGkcc8eJ11mjQt0BA)-->
 <!--- [Noturno](https://docs.google.com/spreadsheets/d/1eOEO5_rTXby6lbp0NSWk0OhCsZQ3bTmPo-Xk14dAO_8)-->
 
+###Prática 3 - Genética Quantitativa
+
+- [Diurno](https://docs.google.com/spreadsheets/d/1go16jkiaENbKI1MSzpjzRohHX4FGks2NWN2cfHHhiVQ/edit#gid=0)
+- [Noturno](https://docs.google.com/spreadsheets/d/1H9XIt3sXWEiYAj-ubvVJ-yaWcwvpo0T-0f17mWmr_KU/edit#gid=0)
+
+
+
 #Listas
-  
-[Lista 1](/bio208/static/pdfs/2015/listas/lista1_2015.pdf) 
+
+[Lista 1](/bio208/static/pdfs/2015/listas/lista1_2015.pdf)
 <!--- [Lista 1](/bio208/static/pdfs/roteiros_listas/2014-roteiro-pratica1.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)-->
-<!--- [Lista 2](/bio208/static/pdfs/roteiros_listas/lista2.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
-<!--- [Lista 3](/bio208/static/pdfs/roteiros_listas/lista3.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
-<!--- [Lista 4](/bio208/static/pdfs/roteiros_listas/lista4.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) -->
+
+[Lista 2](/bio208/static/pdfs/2015/listas/lista2_2015.pdf)
+<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
+
+[Lista 3](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx)
+- [Planilha de dados](/bio208/static/pdfs/2015/listas/medidas.ods)
+
+<!--- [gabarito](/bio208/static/pdfs/2015/listas/exercicio_h2_alunos_2015.docx)-->
+[Lista 4](/bio208/static/pdfs/2015/listas/exercicio_de_selecao_2015_FINAL.docx)
+
+<!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf) -->
 <!--- [Planilha de dados para lista 4](/bio208/static/pdfs/roteiros_listas/planilha_lista4.xlsx)-->
 <!--- [Tutorial de regressão linear para calculo da herdabilidade](/bio208/static/pdfs/roteiros_listas/Tutorial_RL.pdf)-->
 <!--- [Lista 5](/bio208/static/pdfs/roteiros_listas/lista5.pdf) - [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf) -->

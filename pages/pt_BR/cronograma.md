@@ -37,7 +37,7 @@ template: page.html
 
               2 Nov      3 Nov                    Feriado
 
-11            9 No      10 Nov      GM            Unidadade de seleção
+11            9 No      10 Nov      GM            Unidade de seleção
 
 12           16 Nov     17 Nov      GM            Conceito de espécie
 
@@ -64,28 +64,28 @@ template: page.html
 </script>
 
 
-##Datas de entrega de lista de exercícios (14:05hs e 19:05hs).	
- 
-Prática 1 : 17 e 18/08	
+##Datas de entrega de lista de exercícios (14:05hs e 19:05hs).
+
+Prática 1 : 17 e 18/08
 
 Lista 1 : 31 e 01/09
-	
-Lista 2 : 14 e 15/09 
 
-Lista 3: 26 e 27/10
-	
-Lista 4: 09 e 10/11	
-  
-	
-  
-##Avaliação	
-  
-	
-Média das Atividades:	
+Lista 2 : 14 e 15/09
 
-MA = [P1 + L1 + L2 + L3 + L4] / 5 
+Lista 3: 09 e 10/11
 
-Nota final: Prova 1 * 0.4 + Prova 2 * 0.4 + MA * 0.2	
+Lista 4: 30/11 e 01/12
+
+
+
+##Avaliação
+
+
+Média das Atividades:
+
+MA = [P1 + L1 + L2 + L3 + L4] / 5
+
+Nota final: Prova 1 * 0.4 + Prova 2 * 0.4 + MA * 0.2
 
 
 <!--###Google Calendar-->
