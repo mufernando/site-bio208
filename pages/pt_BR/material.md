@@ -14,20 +14,20 @@ template: page.html
 - [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)
 
 #Slides de aula
- [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
+[Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2015/aulas/aula1.pdf)
 
- [Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
+[Deriva genética](/bio208/static/pdfs/2015/aulas/aula2.pdf)
 
- [Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
+[Teoria neutra da evolução molecular](/bio208/static/pdfs/2015/aulas/deriva_neutralidade-2015.pdf)
 
- [Seleção natural](/bio208/static/pdfs/2015/aulas/selecao_2015.pdf)
+[Seleção natural](/bio208/static/pdfs/2015/aulas/selecao_2015.pdf)
 
- [Seleção natural e deriva](/bio208/static/pdfs/2015/aulas/integrando_processos_2015.pdf)
+[Seleção natural e deriva](/bio208/static/pdfs/2015/aulas/integrando_processos_2015.pdf)
 
 <!--- ([video](http://iptv.usp.br/portal/video.action?idItem=24406) -->
- [Desequilibrio de ligação](/bio208/static/pdfs/2015/aulas/aula6_ld.pdf) e [Evolução do genôma](/bio208/static/pdfs/2015/aulas/aula6_genoma.pdf)
+[Desequilibrio de ligação](/bio208/static/pdfs/2015/aulas/aula6_ld.pdf) e [Evolução do genôma](/bio208/static/pdfs/2015/aulas/aula6_genoma.pdf)
 
- [Seleção sexual](/bio208/static/pdfs/2015/aulas/selecao_sexual15.pdf)
+[Seleção sexual](/bio208/static/pdfs/2015/aulas/selecao_sexual15.pdf)
 
 [Adaptação e genética quantitativa I](/bio208/static/pdfs/2015/aulas/variacao_continua_e_evolucao_morfologica_part_I_2015.pdf) e
 [video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk)
@@ -38,10 +38,11 @@ template: page.html
 
 [Conceito de espécie](/bio208/static/pdfs/2015/aulas/conceitos_de_especies_2015.pdf)
 
-
 <!--- [Especiação](/bio208/static/pdfs/aulas2014/especiacao_2014.pdf)-->
-<!--- [Coevolução e macroevolução](/bio208/static/pdfs/aulas2014/coevolucao.pptx) ([video 2013](https://www.youtube.com/watch?v=p3kaFDX1GaM))-->
-<!--- [Evolução e Desenvolvimento](/bio208/static/pdfs/aulas2014/desenvolvimento_e_evolucao.pptx) ([video 2013 + conceito de espécie](https://www.youtube.com/watch?v=wkAEd4FgiYw))-->
+
+[Coevolução e macroevolução](/bio208/static/pdfs/2015/aulas/coevolucao_2015.pdf) ([video 2013](https://www.youtube.com/watch?v=p3kaFDX1GaM))
+
+[Evolução e Desenvolvimento](/bio208/static/pdfs/2015/aulas/DesenvolvimentoeEvolucao2015.pdf) ([video 2013 + conceito de espécie](https://www.youtube.com/watch?v=wkAEd4FgiYw))
 
 #Exercicios
 
