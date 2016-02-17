@@ -24,7 +24,7 @@
 
 ####Recuperação
 
-<!--- 02/03/2015 $\cdot$ 14hs $\cdot$ Sala 4 do Centro Didático-->
+22/02/2016 $\cdot$ 14hs $\cdot$ Sala 4 do Centro Didático
 
 
 </div>
