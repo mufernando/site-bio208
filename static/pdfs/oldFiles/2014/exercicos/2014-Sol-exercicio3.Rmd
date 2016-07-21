@@ -1,0 +1,50 @@
+---
+title: "Solução exercício em aula 3"
+output: pdf_document
+---
+
+1. Qual o valor máximo que a medida de desequilíbrio de ligação
+pode a tingir? (Dica: crie uma população com desequilíbrio total)
+
+Resposta:
+
+A seguinte população possui desequilibrio máximo:
+
+Haplótipo Frequência
+--------- ----------
+ AB         0.5
+ aB         0
+ Ab         0
+ ab         0.5
+ 
+ O valor máximo do desequilibrio então é:
+ 
+ $$
+ D = F_{ab} - F_aF_b = 0.5 - 0.5 * 0.5 = 0.25
+ $$
+
+2. Imagine uma população com as seguintes frequências de haplótipos:
+
+--- ---
+A    B
+A    B
+A    B 
+A    b
+A    b
+A    b
+--- ---
+
+Suponha que ocorre uma mutação num alelo de haplótipo "A b" ,
+tornando-o "a b" . Haverá desequilíbrio de ligação entre os loci?
+Qual o seu valor?
+
+
+Resposta:
+
+Haveria desequilibrio, pois o alelo 'a' nunca é encontrado com o alelo 'B'.
+
+O valor do desequilibrio seria:
+
+$$
+D = F_{ab} - F_aF_b = \frac{1}{6} - \frac{1}{6} \times \frac{1}{2} = \frac{1}{12}
+$$
