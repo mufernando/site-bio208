@@ -4,7 +4,7 @@
 
 ### Diurno $\cdot$ Seg. 14h-18h
 
-#### Local $\cdot$ AG.Botânica
+#### Local $\cdot$ Ag. Botânica
 
 
 ### Noturno $\cdot$ Ter. 19h-23h
