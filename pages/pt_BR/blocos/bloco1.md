@@ -8,6 +8,6 @@
 
 ###Monitores
 
-- <a href='mailto:lc.machado.oliveira@gmail.com'>Luiz Carlos Machado</a>
-- <A HREF="mailto:carol.simoes16@gmail.com">Carol Lima</A>
-- <a href='mailto:lucia.neco@hotmail.com'>Lúcia Neco</a>
+- <a href='mailto:monitor1@gmail.com'>Monitor Uno</a>
+- <A HREF="mailto:monitor2@gmail.com">Monitor Dos</A>
+- <a href='mailto:monitor3@gmail.com'>Monitor Three</a>
