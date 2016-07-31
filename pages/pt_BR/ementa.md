@@ -22,11 +22,11 @@ Calculadoras devem ser trazidas nas aulas 1--5, 9 e 10, além dos dias de prova 
 
 ####Datas de entrega das atividades
 
-- Lista 1 $\cdot$ D 22/09 $\cdot$ N 23/09
-- Lista 2 $\cdot$ D 06/10 $\cdot$ N 07/10
-- Lista 3 $\cdot$ D 20/10 $\cdot$ N 21/10
-- Lista 4 $\cdot$ D 17/11 $\cdot$ N 18/11
-- Lista 5 $\cdot$ D 24/11 $\cdot$ N 25/11
+- Prática 1 $\cdot$ D 08/08 $\cdot$ N 09/08
+- Lista 1 $\cdot$ D 22/08  $\cdot$ N 23/08
+- Lista 2 $\cdot$ D 12/09 $\cdot$ N 13/09
+- Lista 3 $\cdot$ D 24/10  $\cdot$ N 25/10
+- Lista 4 $\cdot$ D 07/11  $\cdot$ N 08/12
 
 ####Bibliografia
 
