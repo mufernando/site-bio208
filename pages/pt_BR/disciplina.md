@@ -24,7 +24,7 @@ Slides, material suplementar e avisos serão postados no site da disciplina. Fiq
 
 Listas de exercícios deverão ser entregues no início da aula, no dia marcado. Listas entregues com atraso (após 14:05) terão pontuação reduzida em 50%.
 
-As listas de exercícios podem ser feitas com consulta aos colegas, mas são individuais e devem ser redigidas individualmente. Listas identicas terão pontuação reduzida em 50%.
+As listas de exercícios podem ser feitas com consulta aos colegas, mas são individuais e devem ser redigidas individualmente. Listas identicas terão pontuação reduzida.
 
 Quem não obtiver média 5,0 e tiver média acima de 3,0 poderá fazer a prova de recuperação, nos dias 9 e 10/12. Essa nota substituirá a pior das duas notas das provas, ou substituirá a média final das duas provas (aquilo que for melhor para o aluno).
 

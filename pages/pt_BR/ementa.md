@@ -53,35 +53,49 @@ Alunos devem fazer as provas no período em que estão inscritos.
 
 ### Cronograma
 
-----------------------------------------------------------------------------------------------------------
-  Aula       Diurno     Noturno     Professor    Conteúdo
---------    --------   ---------   -----------   ---------------------------------------------------------
-1            01-Sep     02-Sep     DM             Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
+--------------------------------------------------------------------------------------------------------------
+  Aula      Diurno     Noturno     Professor     Conteúdo
+--------    --------   ---------   -----------   -------------------------------------------------------------
+1            01 Ago     02 Ago      DM            Introdução, contagem de alelos, equilibrio de Hardy-Weinberg
 
-2            15-Sep     16-Sep     DM             Deriva genética.
 
-3            22-Sep     23-Sep     DM             Modelo básico de seleção natural.
+2            08 Ago     09 Ago      DM            Deriva genética
+                                                    __Prática__: simulação de deriva com feijão
 
-4            29-Sep     30-Sep     DM             Interação entre deriva e seleção.
+3            15 Ago     16 Ago      DM            Deriva genética, tamanho efetivo e teoria neutra
 
-5            06-Oct     07-Oct     DM             Desequilíbrio de ligação, evolução do genoma
+4            22 Ago     23 Ago      DM            Introdução a seleção natural
+                                                    __Prática__: modelos determinísticos de seleção
 
-6            13-Oct     14-Oct     DM             Teoria neutra da evolução molecular
+5            29 Ago      30 Ago     DM            Integração de processos evolutivas: ação conjunta de seleção, deriva e migração.
+                                                     __Prática__: simulações de seleção e deriva no Populus
 
-7            20-Oct     21-Oct     Glauco         Evolução do sexo
+             05 Set     06 Set                    Feriado
 
-8            03-Nov     04-Nov                    Prova 1
+6            12 Set     13 Set      DM            Evolução do genoma e desequilibrio de ligação
 
-9            10-Nov     11-Nov     GM             Adaptação e genética quantitativa 1
+7            19 Set     20 Set      Glauco + DM   Evolução do sexo
 
-10           17-Nov     18-Nov     GM             Adaptação e genética quantitativa  2
+8            26 Set     27 Set                    Prova 1
 
-11           24-Nov     25-Nov     GM             Unidadade de seleção
+             03 Out     04 Out                    Semana Temática
 
-12           01-Dec     02-Dec     GM             Conceito de espécie
+             10 Out     11 Out                    Feriado
 
-13           08-Dec     09-Dec     GM             Coevolução e macroevolução; Evolução e desenvolvimento
+9             17 Out     18 Out      GM            Genética quantitativa e o conceito de herdabilidade
 
-14           15-Dec     16-Dec                      Prova 2
+10           24 Out     25 Out      GM            Adaptação e genética e loci de caracteres quantitativos (QTLs)
 
-----------------------------------------------------------------------------------------------------------
+11           31 Out     01 Nov      GM            Adaptação e processos evolutivos em caracteres contínuos
+
+12           07 Nov     08 Nov      GM            Unidade de Seleção
+
+             14 Nov     15 Nov                    Feriado
+
+13           21 Nov     22 Nov      GM            Conceito de espécie e especiação
+
+14           28 Nov     29 Nov      GM            Macroevolução: coevolução e desenvolvimento
+
+15           05 Dez     06 Dez                    Prova 2
+
+--------------------------------------------------------------------------------------------------------------
