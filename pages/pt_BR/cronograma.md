@@ -64,7 +64,7 @@ template: page.html
 
 
 ##Datas de entrega de lista de exercícios (14h05 e 19h05).
-Prática 1:
+Prática 1: 15 e 16/08
 
 Lista 1: 22 e 23/08
 

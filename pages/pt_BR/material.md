@@ -15,7 +15,7 @@ template: page.html
 
 #Slides de aula
 
-<!--[Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2016/aulas/.pdf)-->
+[Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2016/aulas/aula1_hwp_2016.pdf)
 
 <!--[Deriva genética](/bio208/static/pdfs/2016/aulas/.pdf)-->
 
@@ -62,14 +62,15 @@ template: page.html
 
 #Práticas
 
-<!--###Prática 1- Deriva Genética-->
+###Prática 1- Deriva Genética
 
-<!--- [Roteiro Prática 1](/bio208/static/pdfs/2016/roteiros/pratica1.pdf)-->
+[Roteiro da Prática 1](/bio208/static/pdfs/2016/roteiros/pratica1.pdf)
 
-<!--- Link da Planilha para preencher com os dados dos sorteios:-->
+Planilha para preencher com os dados dos sorteios:
 
-<!--- [DIURNO]https://docs.google.com/spreadsheets/d/1GHVJbxSlOjDOkDDckmQNGsYG-E4A77CcSCRTMiChr-8/edit#gid=0 ([Histograma](/bio208/static/pdfs/2016/listas/Hist-Diurno-pratica1.pdf) e [Série Temporal](/bio208/static/pdfs/2016/listas/TS-Diurno-pratica1.pdf))-->
-<!--- [NOTURNO]https://docs.google.com/spreadsheets/d/1z3pJGTEwVpkkzL51oZeSZpygWFbnap8inxPL8w8lm-c/edit#gid=0 ([Histograma](/bio208/static/pdfs/2016/listas/Hist-Noturno-pratica1.pdf) e [Série Temporal](/bio208/static/pdfs/2016/listas/TS-Noturno-pratica1.pdf))-->
+- [DIURNO](https://docs.google.com/spreadsheets/d/1VBsJRUMiE6ncKurRlNU4bX19XKAgU-VgEsaClZOzaWM/edit?usp=sharing)
+
+- [NOTURNO](https://docs.google.com/spreadsheets/d/1YpU85ekvxiPpQm9V3zSxZHSgUSs11VEyEyNmtGkw6Xc/edit?usp=sharing)
 
 <!--###Prática 2 - Seleção natural-->
 
