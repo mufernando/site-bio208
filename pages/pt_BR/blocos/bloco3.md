@@ -1,9 +1,13 @@
 
 <div class="panel-heading">
-#### Datas importantes
+#### Informações importantes
 </div>
 
 <div class="panel-body">
+####Atendimento
+- Segunda-feira 13-14h (Monitores - Ag. Bot.)
+- Terça-feira 17-18h (Diogo - Porão)
+- Terça-feira 18-19h (Monitores - Ag. Bot.)
 
 ####Provas
 - Prova 1 $\cdot$ D 26/09 $\cdot$ N 27/09
@@ -21,9 +25,9 @@
 - Lista 4 $\cdot$ D 07/11  $\cdot$ N 08/12
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf)-->
 
-####Recuperação
+<!---####Recuperação
 
-A definir
+A definir-->
 
 
 </div>

@@ -17,7 +17,7 @@ template: page.html
 
 [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2016/aulas/aula1_hwp_2016.pdf)
 
-<!--[Deriva genética](/bio208/static/pdfs/2016/aulas/.pdf)-->
+[Deriva genética](/bio208/static/pdfs/2016/aulas/aula2_deriva_2016.pdf)
 
 <!--[Teoria neutra da evolução molecular](/bio208/static/pdfs/2016/aulas/.pdf)-->
 
@@ -47,6 +47,11 @@ template: page.html
 <!--[Evolução e Desenvolvimento](/bio208/static/pdfs/2016/aulas/.pdf) ([video 2013 + conceito de espécie](https://www.youtube.com/watch?v=wkAEd4FgiYw))-->
 
 #Exercicios
+
+- [Exercicio em sala 1 - Hardy-Weinberg](/bio208/static/pdfs/2016/exercicios/ex_sala_1.pdf)
+
+	- [Solução Exercicio em sala 1](/bio208/static/pdfs/2016/exercicios/ex_sala_1_solucao.pdf)
+
 
 <!--- [Exercicio 1 - Contagem de alelos e equilibrio Hardy-Weinberg](/bio208/static/pdfs/2016/exercicios/exercicio1.pdf)-->
 <!--- [Solução Exercicio 1](/bio208/static/pdfs/2016/exercicios/Sol-exercicio1.pdf)-->
