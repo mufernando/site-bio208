@@ -48,6 +48,8 @@ template: page.html
 
 #Exercicios
 
+- [Vídeos com resoluções de exercícios](https://www.youtube.com/channel/UCIIQXj93tvq-cM-9zwCVkCQ) (Agradecimentos ao aluno José Pinheiro Felici)
+
 - [Exercicio em sala 1 - Hardy-Weinberg](/bio208/static/pdfs/2016/exercicios/ex_sala_1.pdf)
 
 	- [Solução Exercicio em sala 1](/bio208/static/pdfs/2016/exercicios/ex_sala_1_solucao.pdf)
