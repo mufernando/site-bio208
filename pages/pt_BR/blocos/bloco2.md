@@ -9,4 +9,4 @@
 
 ### Noturno $\cdot$ Ter. 19h-23h
 
-#### Local $\cdot$ Minas I
+#### Local $\cdot$ Ag. Botânica

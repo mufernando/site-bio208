@@ -6,7 +6,7 @@
 <div class="panel-body">
 ####Atendimento
 - Segunda-feira 13-14h (Monitores - Ag. Bot.)
-- Terça-feira 17-18h (Diogo - Porão)
+- Terça-feira 17-18h (Diogo - Térreo do Minas)
 - Terça-feira 18-19h (Monitores - Ag. Bot.)
 
 ####Provas
