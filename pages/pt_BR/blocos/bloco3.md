@@ -16,7 +16,7 @@
 ####Entrega de listas
 
 - [Prática 1](/bio208/static/pdfs/2016/roteiros/pratica_1.pdf) $\cdot$ D 15/08 $\cdot$ N 16/08 <!--[gabarito](/bio208/static/pdfs/roteiros_listas/lista1_gabarito.pdf)<]-->
-- Lista 1 $\cdot$ D 22/08  $\cdot$ N 23/08
+- [Lista 1](/bio208/static/pdfs/2016/listas/lista1.pdf) $\cdot$ D 22/08  $\cdot$ N 23/08
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista2_gabarito.pdf)-->
 - Lista 2 $\cdot$ D 12/09 $\cdot$ N 13/09
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->

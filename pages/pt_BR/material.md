@@ -5,6 +5,7 @@ template: page.html
 - [Ementa da disciplina](/bio208/static/pdfs/ementa.pdf)
 - [Livro de genética de populações](/bio208/static/pdfs/livro_paulo_otto.pdf)
 <!--- [Capítulo Templeton - Unidade e Alvo de seleção](/bio208/static/pdfs/artigos/3_ProvEnv_13_templeton_RB.pdf)-->
+- [Vídeos de derivações](https://drive.google.com/drive/folders/0B0cMRcvHJszGanJ5S1ppS2dkdzg?usp=sharing)
 
 #Artigos recomendados
 
@@ -69,7 +70,7 @@ template: page.html
 
 #Práticas
 
-###Prática 1- Deriva Genética
+###Prática 1 - Deriva Genética
 
 [Roteiro da Prática 1](/bio208/static/pdfs/2016/roteiros/pratica1.pdf)
 
@@ -79,9 +80,9 @@ Planilha para preencher com os dados dos sorteios:
 
 - [NOTURNO](https://docs.google.com/spreadsheets/d/1YpU85ekvxiPpQm9V3zSxZHSgUSs11VEyEyNmtGkw6Xc/edit?usp=sharing)
 
-<!--###Prática 2 - Seleção natural-->
+###Prática 2 - Seleção natural
 
-<!--- [Roteiro prática 2](/bio208/static/pdfs/2016/roteiros/pratica2.pdf)-->
+[Roteiro da Prática 2](/bio208/static/pdfs/2016/roteiros/pratica2.pdf)
 <!--- [Planilha prática 2](/bio208/static/pdfs/2016/roteiros/planilha-pratica2.xlsx)-->
 
 <!--##Prática 3 - Seleção natural e deriva-->
