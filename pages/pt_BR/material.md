@@ -20,9 +20,9 @@ template: page.html
 
 [Deriva genética](/bio208/static/pdfs/2016/aulas/aula2_deriva_2016.pdf)
 
-<!--[Teoria neutra da evolução molecular](/bio208/static/pdfs/2016/aulas/.pdf)-->
+[Deriva e neutralidade](/bio208/static/pdfs/2016/aulas/aula3_deriva_neutralidade_2016.pdf)
 
-<!--[Seleção natural](/bio208/static/pdfs/2016/aulas/.pdf)-->
+[Seleção natural](/bio208/static/pdfs/2016/aulas/aula4_selecao_2016.pdf)
 
 <!--[Seleção natural e deriva](/bio208/static/pdfs/2016/aulas/.pdf)-->
 
