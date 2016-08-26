@@ -5,7 +5,14 @@ template: page.html
 - [Ementa da disciplina](/bio208/static/pdfs/ementa.pdf)
 - [Livro de genética de populações](/bio208/static/pdfs/livro_paulo_otto.pdf)
 <!--- [Capítulo Templeton - Unidade e Alvo de seleção](/bio208/static/pdfs/artigos/3_ProvEnv_13_templeton_RB.pdf)-->
-- [Vídeos de derivações](https://drive.google.com/drive/folders/0B0cMRcvHJszGanJ5S1ppS2dkdzg?usp=sharing)
+
+#Vídeos
+
+- [Notação básica usada para modelos populacionais (N, 2N, p, q) e estimativa de frequências genotípicas e alélicas.](https://drive.google.com/open?id=0B0cMRcvHJszGUWV2SFV0VUxqSnc)
+
+- [Demonstração do equilíbrio de Hardy-Weiinberg considerando cruzamentos ao acaso (panmixia), de modo a complementar o conteúdo visto em sala para união ao acaso de gametas. Repare que nesse tratamento, em que casais cruzam ao acaso, chegamos ao mesmo resultado quanto à relação entre frequências genotípicas e alélicas. ](https://drive.google.com/open?id=0B0cMRcvHJszGeHFTR1VHbXNPZm8)
+
+- [Derivação da fórmula que descreve como a taxa de heterozigose (H) muda entre duas gerações, sob o efeito da deriva genética.](https://drive.google.com/open?id=0B0cMRcvHJszGRWd2SDQ0TjBUWk0)
 
 #Artigos recomendados
 
