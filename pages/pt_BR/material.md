@@ -110,7 +110,7 @@ Planilha para preencher com os dados dos sorteios:
 [Lista 1](/bio208/static/pdfs/2016/listas/lista1.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista1_gabarito.pdf)-->
 
-<!--[Lista 2](/bio208/static/pdfs/2016/listas/lista2.pdf)-->
+[Lista 2](/bio208/static/pdfs/2016/listas/lista2.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
 <!--[Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf)-->
