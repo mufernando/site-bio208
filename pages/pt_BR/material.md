@@ -76,6 +76,8 @@ template: page.html
 <!--- [Exercicio 4 - Herdabilidade](/bio208/static/pdfs/2016/exercicios/exercicio4.pdf)-->
 <!--- [Solução Exercicio 4](/bio208/static/pdfs/2016/exercicios/Sol-exercicio4.pdf)-->
 
+- [Exercício em sala 4 - Efeito médio, aditivo e de dominância](https://diogro.github.io/exGenQuant/quant_gen_1.html)
+
 #Práticas
 
 #####Prática 1 - Deriva Genética
