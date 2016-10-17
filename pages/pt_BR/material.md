@@ -34,10 +34,10 @@ template: page.html
 [Integrando processos evolutivos](/bio208/static/pdfs/2016/aulas/aula5_integrando_2016.pdf)
 
 <!--- ([video](http://iptv.usp.br/portal/video.action?idItem=24406) -->
-<!--[Desequilibrio de ligação](/bio208/static/pdfs/2016/aulas/aula6_ld.pdf) e-->
+[Evolução do genoma e Desequilibrio de ligação](/bio208/static/pdfs/2016/aulas/aula6_ld.pdf)
 <!--[Evolução do genôma](/bio208/static/pdfs/2016/aulas/.pdf)-->
 
-<!--[Seleção sexual](/bio208/static/pdfs/2016/aulas/.pdf)-->
+[Seleção sexual](/bio208/static/pdfs/2016/aulas/aula7_selsexual.pdf)
 
 <!--[Adaptação e genética quantitativa I](/bio208/static/pdfs/2016/aulas/.pdf) e-->
 <!--[video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk)-->
@@ -58,7 +58,7 @@ template: page.html
 
 - [Vídeos com resoluções de exercícios](https://www.youtube.com/channel/UCIIQXj93tvq-cM-9zwCVkCQ) (Agradecimentos ao aluno José Pinheiro Felici)
 
-- [Exercicio em sala 1 - Hardy-Weinberg](/bio208/static/pdfs/2016/exercicios/ex_sala_1.pdf)
+- [Exercício em sala 1 - Hardy-Weinberg](/bio208/static/pdfs/2016/exercicios/ex_sala_1.pdf)
 
 	- [Solução Exercicio em sala 1](/bio208/static/pdfs/2016/exercicios/ex_sala_1_solucao.pdf)
 
@@ -66,18 +66,19 @@ template: page.html
 <!--- [Exercicio 1 - Contagem de alelos e equilibrio Hardy-Weinberg](/bio208/static/pdfs/2016/exercicios/exercicio1.pdf)-->
 <!--- [Solução Exercicio 1](/bio208/static/pdfs/2016/exercicios/Sol-exercicio1.pdf)-->
 
-<!--- [Exercicio 2 - Teoria neutra](/bio208/static/pdfs/2016/exercicios/exercicio2.pdf)-->
+- [Exercicio 2 - Teoria neutra](/bio208/static/pdfs/2016/exercicios/ex_sala_2.pdf)
 <!--- [Solução Exercicio 2](/bio208/static/pdfs/2016/exercicios/Sol-exercicio2.pdf)-->
 
-<!--- [Exercicio 3 - Desequilibrio de ligação](/bio208/static/pdfs/2016/exercicios/exercicio3.pdf)-->
+- [Exercício em sala 3 - Desequilibrio de ligação](/bio208/static/pdfs/2016/exercicios/ex_sala_3.pdf)
 <!--- [Solução Exercicio 3](/bio208/static/pdfs/2016/exercicios/Sol-exercicio3.pdf)-->
 
+- [Exercício de revisão](/bio208/static/pdfs/2016/exercicios/ex_revisao.html)
 <!--- [Exercicio 4 - Herdabilidade](/bio208/static/pdfs/2016/exercicios/exercicio4.pdf)-->
 <!--- [Solução Exercicio 4](/bio208/static/pdfs/2016/exercicios/Sol-exercicio4.pdf)-->
 
 #Práticas
 
-###Prática 1 - Deriva Genética
+#####Prática 1 - Deriva Genética
 
 [Roteiro da Prática 1](/bio208/static/pdfs/2016/roteiros/pratica1.pdf)
 
@@ -87,11 +88,13 @@ Planilha para preencher com os dados dos sorteios:
 
 - [NOTURNO](https://docs.google.com/spreadsheets/d/1YpU85ekvxiPpQm9V3zSxZHSgUSs11VEyEyNmtGkw6Xc/edit?usp=sharing)
 
-###Prática 2 - Seleção natural
+#####Prática 2 - Seleção natural
 
 [Roteiro da Prática 2](/bio208/static/pdfs/2016/roteiros/pratica2.pdf)
 <!--- [Planilha prática 2](/bio208/static/pdfs/2016/roteiros/planilha-pratica2.xlsx)-->
+#####Prática 3 - Herdabilidade
 
+[Planilha da Prática 3](https://goo.gl/forms/LPyFNDmhj2pZSs2K3)
 <!--##Prática 3 - Seleção natural e deriva-->
 
 <!--- [Roteiro prática 3](/bio208/static/pdfs/2016/listas/2014-roteiro-pratica3.pdf)-->
