@@ -70,9 +70,9 @@ Lista 1: 22 e 23/08
 
 Lista 2: 12 e 13/09
 
-Lista 3: 24 e 25/10
+Lista 3: 07 e 08/10
 
-Lista 4: 07 e 08/11
+Lista 4: 21 e 22/11
 
 
 

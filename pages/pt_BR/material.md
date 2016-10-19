@@ -80,7 +80,7 @@ template: page.html
 
 #Práticas
 
-#####Prática 1 - Deriva Genética
+###Prática 1 - Deriva Genética
 
 [Roteiro da Prática 1](/bio208/static/pdfs/2016/roteiros/pratica1.pdf)
 
@@ -90,12 +90,11 @@ Planilha para preencher com os dados dos sorteios:
 
 - [NOTURNO](https://docs.google.com/spreadsheets/d/1YpU85ekvxiPpQm9V3zSxZHSgUSs11VEyEyNmtGkw6Xc/edit?usp=sharing)
 
-#####Prática 2 - Seleção natural
+###Prática 2 - Seleção natural
 
 [Roteiro da Prática 2](/bio208/static/pdfs/2016/roteiros/pratica2.pdf)
-<!--- [Planilha prática 2](/bio208/static/pdfs/2016/roteiros/planilha-pratica2.xlsx)-->
 
-#####Prática 3 - Herdabilidade
+###Prática 3 - Herdabilidade
 
 [Planilha da Prática 3](https://goo.gl/forms/LPyFNDmhj2pZSs2K3)
 
