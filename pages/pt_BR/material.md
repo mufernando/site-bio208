@@ -78,7 +78,7 @@ template: page.html
 
 - [Exercício em sala 4 - Efeito médio, aditivo e de dominância](https://diogro.github.io/exGenQuant/quant_gen_1.html)
 
-- [Exercício em sala 5 - QTL](/bio208/static/pdfs/2016/exercicios/ex_sala_4.pdf)
+- [Exercício em sala 5 - QTL](/bio208/static/pdfs/2016/exercicios/ex_sala_5.pdf)
 
 #Práticas
 
