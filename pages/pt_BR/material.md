@@ -39,10 +39,9 @@ template: page.html
 
 [Seleção sexual](/bio208/static/pdfs/2016/aulas/aula7_selsexual.pdf)
 
-<!--[Adaptação e genética quantitativa I](/bio208/static/pdfs/2016/aulas/.pdf) e-->
-<!--[video de 2013](https://www.youtube.com/watch?v=9j9YTVRhUBk)-->
+[Genética quantitativa I - Herdabilidade](/bio208/static/pdfs/2016/aulas/aula8_herdabilidade.pdf)
 
-<!--[Adaptação e genética quantitativa II](/bio208/static/pdfs/2016/aulas/.pdf) ([video de 2013](https://www.youtube.com/watch?v=pxGpHJPgQRk))-->
+[Genética quantitativa II - QTLs](/bio208/static/pdfs/2016/aulas/aula9_qtl.pdf)
 
 <!--[Unidade de seleção](/bio208/static/pdfs/2016/aulas/.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
 
