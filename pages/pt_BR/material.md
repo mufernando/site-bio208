@@ -110,16 +110,16 @@ Planilha para preencher com os dados dos sorteios:
 
 #Listas
 
-[Lista 1](/bio208/static/pdfs/2016/listas/lista1.pdf)
+- [Lista 1](/bio208/static/pdfs/2016/listas/lista1.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista1_gabarito.pdf)-->
 
-[Lista 2](/bio208/static/pdfs/2016/listas/lista2.pdf)
+- [Lista 2](/bio208/static/pdfs/2016/listas/lista2.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
-[Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf)
+- [Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
-[Planilha de dados para lista 3](https://docs.google.com/spreadsheets/d/1SJkHjMFAXlqk4COxJU3janyqPfen208d6AzLiKuJMp4/edit?usp=sharing)
+	- [Planilha de dados para lista 3](https://docs.google.com/spreadsheets/d/1SJkHjMFAXlqk4COxJU3janyqPfen208d6AzLiKuJMp4/edit?usp=sharing)
 
 <!--[Lista 4](/bio208/static/pdfs/2016/listas/lista4.pdf)-->
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista4_gabarito.pdf)-->
