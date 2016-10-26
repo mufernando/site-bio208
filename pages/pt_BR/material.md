@@ -95,11 +95,6 @@ Planilha para preencher com os dados dos sorteios:
 
 [Roteiro da Prática 2](/bio208/static/pdfs/2016/roteiros/pratica2.pdf)
 
-###Prática 3 - Herdabilidade
-
-[Planilha da Prática 3](https://goo.gl/forms/LPyFNDmhj2pZSs2K3)
-
-Planilha para preencher até o dia 24/10/2016.
 <!--##Prática 3 - Seleção natural e deriva-->
 
 <!--- [Roteiro prática 3](/bio208/static/pdfs/2016/listas/2014-roteiro-pratica3.pdf)-->
@@ -121,10 +116,10 @@ Planilha para preencher até o dia 24/10/2016.
 [Lista 2](/bio208/static/pdfs/2016/listas/lista2.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
-<!--[Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf)-->
+[Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
-<!--- [Planilha de dados para lista 3](/bio208/static/pdfs/2016/listas/medidas.ods)-->
+[Planilha de dados para lista 3](https://docs.google.com/spreadsheets/d/1SJkHjMFAXlqk4COxJU3janyqPfen208d6AzLiKuJMp4/edit?usp=sharing)
 
 <!--[Lista 4](/bio208/static/pdfs/2016/listas/lista4.pdf)-->
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista4_gabarito.pdf)-->
