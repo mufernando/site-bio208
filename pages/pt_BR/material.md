@@ -16,7 +16,7 @@ template: page.html
 
 #Artigos recomendados
 
-<!--- [The Ecological Significance of Correlation Pleiades](http://www.jstor.org/stable/2405824)  ([pdf](/bio208/static/pdfs/artigos/Berg-1960.pdf))-->
+[The Ecological Significance of Correlation Pleiades](http://www.jstor.org/stable/2405824)  ([pdf](/bio208/static/pdfs/artigos/Berg-1960.pdf))
 <!--- [The road to modularity](http://www.nature.com/nrg/journal/v9/n12/abs/nrg2267.html) ([pdf](/bio208/static/pdfs/artigos/Wagner_etal-2007.pdf))-->
 <!--- [Systematic Generalization, Historical Fate, and the Species Problem](http://sysbio.oxfordjournals.org/content/42/3/231.abstract) ([pdf](/bio208/static/pdfs/artigos/OHara-1993.pdf))-->
 <!--- [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)-->
@@ -111,13 +111,10 @@ Planilha para preencher com os dados dos sorteios:
 #Listas
 
 - [Lista 1](/bio208/static/pdfs/2016/listas/lista1.pdf)
-<!--- [gabarito](/bio208/static/pdfs/2016/listas/lista1_gabarito.pdf)-->
 
 - [Lista 2](/bio208/static/pdfs/2016/listas/lista2.pdf)
-<!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
 - [Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf)
-<!--- [gabarito](/bio208/static/pdfs/2016/listas/lista2_gabarito.pdf)-->
 
 	- [Planilha de dados para lista 3](https://docs.google.com/spreadsheets/d/1SJkHjMFAXlqk4COxJU3janyqPfen208d6AzLiKuJMp4/edit?usp=sharing)
 
