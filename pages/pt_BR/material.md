@@ -43,7 +43,9 @@ template: page.html
 
 [Genética quantitativa II - QTLs](/bio208/static/pdfs/2016/aulas/aula9_qtl.pdf)
 
-<!--[Unidade de seleção](/bio208/static/pdfs/2016/aulas/.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))-->
+[Genética quantitativa III - Adaptação e modularidade](/bio208/static/pdfs/2016/aulas/aula10_modularidade-e-adaptacao.pdf)
+
+[Unidade e alvo de seleção](/bio208/static/pdfs/2016/aulas/aula11_unidades-de-selecao.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
 
 <!--[Conceito de espécie](/bio208/static/pdfs/2016/aulas/.pdf)-->
 
@@ -78,6 +80,9 @@ template: page.html
 - [Exercício em sala 4 - Efeito médio, aditivo e de dominância](https://diogro.github.io/exGenQuant/quant_gen_1.html)
 
 - [Exercício em sala 5 - QTL](/bio208/static/pdfs/2016/exercicios/ex_sala_5.pdf)
+
+- [Exercício em sala 6 - Resposta à seleção](/bio208/static/pdfs/2016/exercicios/ex_sala_6.pdf)
+
 
 #Práticas
 
@@ -118,7 +123,7 @@ Planilha para preencher com os dados dos sorteios:
 
 	- [Planilha de dados para lista 3](https://docs.google.com/spreadsheets/d/1SJkHjMFAXlqk4COxJU3janyqPfen208d6AzLiKuJMp4/edit?usp=sharing)
 
-<!--[Lista 4](/bio208/static/pdfs/2016/listas/lista4.pdf)-->
+- [Lista 4](/bio208/static/pdfs/2016/listas/lista4.pdf)
 <!--- [gabarito](/bio208/static/pdfs/2016/listas/lista4_gabarito.pdf)-->
 
 <!--- [Planilha de dados para lista 4](/bio208/static/pdfs/2016/listas/planilha_lista4.xlsx)-->
