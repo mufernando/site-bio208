@@ -17,35 +17,37 @@ template: page.html
 #Artigos recomendados
 
 [The Ecological Significance of Correlation Pleiades](http://www.jstor.org/stable/2405824)  ([pdf](/bio208/static/pdfs/artigos/Berg-1960.pdf))
-<!--- [The road to modularity](http://www.nature.com/nrg/journal/v9/n12/abs/nrg2267.html) ([pdf](/bio208/static/pdfs/artigos/Wagner_etal-2007.pdf))-->
+
+[The road to modularity](http://www.nature.com/nrg/journal/v9/n12/abs/nrg2267.html) ([pdf](/bio208/static/pdfs/artigos/Wagner_etal-2007.pdf))
 <!--- [Systematic Generalization, Historical Fate, and the Species Problem](http://sysbio.oxfordjournals.org/content/42/3/231.abstract) ([pdf](/bio208/static/pdfs/artigos/OHara-1993.pdf))-->
 <!--- [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)-->
 
 #Slides de aula
 
-[Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2016/aulas/aula1_hwp_2016.pdf)
+- [Introdução, contagem de alelos, equilibrio de Hardy-Weinberg](/bio208/static/pdfs/2016/aulas/aula1_hwp_2016.pdf)
 
-[Deriva genética](/bio208/static/pdfs/2016/aulas/aula2_deriva_2016.pdf)
+- [Deriva genética](/bio208/static/pdfs/2016/aulas/aula2_deriva_2016.pdf)
 
-[Deriva e neutralidade](/bio208/static/pdfs/2016/aulas/aula3_deriva_neutralidade_2016.pdf)
+- [Deriva e neutralidade](/bio208/static/pdfs/2016/aulas/aula3_deriva_neutralidade_2016.pdf)
 
-[Seleção natural](/bio208/static/pdfs/2016/aulas/aula4_selecao_2016.pdf)
+- [Seleção natural](/bio208/static/pdfs/2016/aulas/aula4_selecao_2016.pdf)
 
-[Integrando processos evolutivos](/bio208/static/pdfs/2016/aulas/aula5_integrando_2016.pdf)
+- [Integrando processos evolutivos](/bio208/static/pdfs/2016/aulas/aula5_integrando_2016.pdf)
 
 <!--- ([video](http://iptv.usp.br/portal/video.action?idItem=24406) -->
-[Evolução do genoma e Desequilibrio de ligação](/bio208/static/pdfs/2016/aulas/aula6_ld.pdf)
+- [Evolução do genoma e Desequilibrio de ligação](/bio208/static/pdfs/2016/aulas/aula6_ld.pdf)
 <!--[Evolução do genôma](/bio208/static/pdfs/2016/aulas/.pdf)-->
 
-[Seleção sexual](/bio208/static/pdfs/2016/aulas/aula7_selsexual.pdf)
+- [Seleção sexual](/bio208/static/pdfs/2016/aulas/aula7_selsexual.pdf)
 
-[Genética quantitativa I - Herdabilidade](/bio208/static/pdfs/2016/aulas/aula8_herdabilidade.pdf)
+- [Genética quantitativa I - Herdabilidade](/bio208/static/pdfs/2016/aulas/aula8_herdabilidade.pdf)
 
-[Genética quantitativa II - QTLs](/bio208/static/pdfs/2016/aulas/aula9_qtl.pdf)
+- [Genética quantitativa II - QTLs](/bio208/static/pdfs/2016/aulas/aula9_qtl.pdf)
+	- [Material sobre QTLs](http://www.ib.usp.br/evolucao/QTL/)
 
-[Genética quantitativa III - Adaptação e modularidade](/bio208/static/pdfs/2016/aulas/aula10_modularidade-e-adaptacao.pdf)
+- [Genética quantitativa III - Adaptação e modularidade](/bio208/static/pdfs/2016/aulas/aula10_modularidade-e-adaptacao.pdf)
 
-[Unidade e alvo de seleção](/bio208/static/pdfs/2016/aulas/aula11_unidades-de-selecao.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
+- [Unidade e alvo de seleção](/bio208/static/pdfs/2016/aulas/aula11_unidades-de-selecao.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
 
 <!--[Conceito de espécie](/bio208/static/pdfs/2016/aulas/.pdf)-->
 

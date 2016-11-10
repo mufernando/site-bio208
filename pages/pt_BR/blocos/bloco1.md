@@ -9,5 +9,6 @@
 ###Monitores
 
 - <a href='mailto:ca.berald@gmail.com'>Camila Souza Beraldo</a>
+- Carolina Mendonça
 - <A HREF="mailto:murillofer.rodrigues@gmail.com">Murillo Fernando Rodrigues</A>
 - <a href='mailto:bolivaruis@gmail.com'>Sergio Bolívar</a>
