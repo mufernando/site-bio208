@@ -19,8 +19,12 @@ template: page.html
 [The Ecological Significance of Correlation Pleiades](http://www.jstor.org/stable/2405824)  ([pdf](/bio208/static/pdfs/artigos/Berg-1960.pdf))
 
 [The road to modularity](http://www.nature.com/nrg/journal/v9/n12/abs/nrg2267.html) ([pdf](/bio208/static/pdfs/artigos/Wagner_etal-2007.pdf))
-<!--- [Systematic Generalization, Historical Fate, and the Species Problem](http://sysbio.oxfordjournals.org/content/42/3/231.abstract) ([pdf](/bio208/static/pdfs/artigos/OHara-1993.pdf))-->
-<!--- [Texto sobre conceito de espécie](/bio208/static/pdfs/artigos/Conceito_especie-Marroig-2008.pdf)-->
+
+[Systematic Generalization, Historical Fate, and the Species Problem](http://sysbio.oxfordjournals.org/content/42/3/231.abstract) ([pdf](/bio208/static/pdfs/artigos/OHara-1993.pdf))
+
+[Sobre a insolubilidade do problema dos conceitos de espécie](/bio208/static/pdfs/artigos/conceito-especie-2016.pdf)
+
+[Unidades e alvos de seleção](/bio208/static/pdfs/artigos/3_ProvEnv_13_templeton_RB.pdf)
 
 #Slides de aula
 
@@ -49,9 +53,9 @@ template: page.html
 
 - [Unidade e alvo de seleção](/bio208/static/pdfs/2016/aulas/aula11_unidades-de-selecao.pdf) ([video de 2013](https://www.youtube.com/watch?v=T_dOhTe-RYQ))
 
-<!--[Conceito de espécie](/bio208/static/pdfs/2016/aulas/.pdf)-->
+- [Conceitos de espécie](/bio208/static/pdfs/2016/aulas/aula12_conceito-especies.pdf)
 
-<!--- [Especiação](/bio208/static/pdfs/aulas2014/especiacao_2014.pdf)-->
+- [Especiação](/bio208/static/pdfs/aulas2014/aula13_especiacao.pdf)-->
 
 <!--[Coevolução e macroevolução](/bio208/static/pdfs/2016/aulas/.pdf) ([video 2013](https://www.youtube.com/watch?v=p3kaFDX1GaM))-->
 

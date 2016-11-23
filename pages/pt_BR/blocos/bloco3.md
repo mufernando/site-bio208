@@ -22,7 +22,7 @@
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista3_gabarito.pdf)-->
 - [Lista 3](/bio208/static/pdfs/2016/listas/lista3.pdf) $\cdot$ D 07/11  $\cdot$ N 08/11
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista4_gabarito.pdf)-->
-- Lista 4 $\cdot$ D 21/11  $\cdot$ N 22/11
+- [Lista 4](/bio208/static/pdfs/2016/listas/lista4.pdf)  $\cdot$ D 21/11  $\cdot$ N 22/11
 <!--- [gabarito](/bio208/static/pdfs/roteiros_listas/lista5_gabarito.pdf)-->
 
 <!---####Recuperação
