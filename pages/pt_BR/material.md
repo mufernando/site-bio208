@@ -55,7 +55,7 @@ template: page.html
 
 - [Conceitos de espécie](/bio208/static/pdfs/2016/aulas/aula12_conceito-especies.pdf)
 
-- [Especiação](/bio208/static/pdfs/2016/aula13_especiacao.pdf)
+- [Especiação](/bio208/static/pdfs/2016/aulas/aula13_especiacao.pdf)
 
 - [Coevolução e macroevolução](/bio208/static/pdfs/2016/aulas/aula14_coevolucao.pdf) ([video 2013](https://www.youtube.com/watch?v=p3kaFDX1GaM))
 
@@ -79,7 +79,7 @@ template: page.html
 - [Exercício em sala 3 - Desequilibrio de ligação](/bio208/static/pdfs/2016/exercicios/ex_sala_3.pdf)
 <!--- [Solução Exercicio 3](/bio208/static/pdfs/2016/exercicios/Sol-exercicio3.pdf)-->
 
-- [Exercício de revisão](/bio208/static/pdfs/2016/exercicios/ex_revisao.html)
+- [Exercício de revisão P1](/bio208/static/pdfs/2016/exercicios/ex_revisao.html)
 <!--- [Exercicio 4 - Herdabilidade](/bio208/static/pdfs/2016/exercicios/exercicio4.pdf)-->
 <!--- [Solução Exercicio 4](/bio208/static/pdfs/2016/exercicios/Sol-exercicio4.pdf)-->
 
@@ -88,7 +88,7 @@ template: page.html
 - [Exercício em sala 5 - QTL](/bio208/static/pdfs/2016/exercicios/ex_sala_5.pdf)
 
 - [Exercício em sala 6 - Resposta à seleção](/bio208/static/pdfs/2016/exercicios/ex_sala_6.pdf)
-
+- [Exercício de revisão P2](/bio208/static/pdfs/2016/exercicios/ex_revisao_2.pdf)
 
 #Práticas
 
